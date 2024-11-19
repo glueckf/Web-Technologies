@@ -1,0 +1,155 @@
+<html>
+  <head>
+    <title>Webtechnologien WiSe 21/22 Hausaufgabe 2</title>
+    <style>
+      html {
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+      }
+
+      h3 {
+        margin-bottom: 0px;
+      }
+
+      table, th, td {
+        border: 1px solid black;
+        border-collapse: collapse;
+      }
+
+      table {
+        table-layout : fixed;
+      }
+
+      div {
+        margin-bottom: 20px;
+      }
+
+      td {
+        padding: 8px;
+        word-wrap: break-word
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Aufgabe 1 -->
+    <div>
+      <table width="50%" style="margin: 0 auto;">
+        <tbody id="a01">
+          <tr><td colspan="3"><h3>Aufgabe 1 (2 Punkte)</h3></td></tr>
+          <tr>
+            <td colspan="3">
+              <p>Betrachten Sie die Datei <code>a01.js</code></p>
+              <p>
+                Implementieren Sie die Funktion <code>multiply()</code>, die zwei Zahlen als Parameter (<code>number1</code> und <code>number2</code>) übergeben bekommt und diese miteinander multipliziert.
+                Dabei ist der zweite Parameter optional. Wird die Funktion nur mit einem Parameter aufgerufen wird <code>number1</code> einfach mit 1 multipliziert. (1 Punkt)
+              </p>
+              <p>
+                Implementieren Sie die Funktion <code>multiplyAll()</code>, die eine beliebige Anzahl an Parametern übergeben bekommt und diese miteinander multipliziert. (1 Punkt) <br />
+                <b>Hinweis:</b> Machen Sie sich zum Lösen dieser Aufgabe mit dem <a href="https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Functions/arguments"><code>arguments</code></a> Objekt vertraut.
+                Des Weiteren ist die statische Funktion <a href="https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Object/values"><code>Object.values()</code></a> hilfreich für die Lösung dieser Aufgabe. 
+              </p>
+            </td>
+          </tr>
+          <tr><td><b>command</b></td><td><b>expected</b></td><td><b>output</b></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Aufgabe 2 -->
+    <div>
+      <table width="50%" style="margin: 0 auto;">
+        <tbody id="a02">
+          <tr><td colspan="3"><h3>Aufgabe 2 (5 Punkte)</h3></td></tr>
+          <tr>
+            <td colspan="3">
+              <p>Betrachten Sie die Datei <code>a02.js</code></p>
+              <p>
+                Implementieren Sie die Funktion <code>addArrayElement()</code>, die ein Element als Parameter übergeben bekommt und dieses zum Array hinzufügt, sofern dieses nicht schon im Array vorhanden ist. (1 Punkt) <br />
+                <b>Hinweis:</b> Arbeiten Sie nur auf der Kopie des Arrays.
+              </p>
+              <p>
+                Implementieren Sie die Funktion <code>getArrayElements()</code>, die N Elemente des Arrays beginnend vom Startindex i ausliest. 
+                Dazu bekommt diese zwei Parameter (<code>number</code> und <code>startIndex</code>) übergeben.
+                Der Parameter <code>startIndex</code> kann größer als die Array-Länge sein. Implementieren Sie eine fortlaufende Adressierung, indem Sie das Array wieder vom Beginn durchlaufen.
+                <b>Zum Beispiel:</b> Sei L die Array-Länge. Das Element mit dem Index 0 hat auch den Index L und 2 * L und 3 * L ...
+                Der Parameter <code>number</code> gibt an wieviele Elemente ausgelesen werden sollen. Das Auslesen wird am Ende des Arrays beendet auch wenn nicht die gewünschte Anzahl an Elementen ausgelesen wurde. (1 Punkt)
+              </p>
+              <p>
+                Implementieren SIe die Funktion <code>deleteArrayElements()</code>, die N Elemente des Arrays beginnend vom Startindex i ausliest <b>und</b> innerhalb dieses Teil-Arrays jedes x-te Element löscht.
+                Implementieren Sie die Parameter <code>number</code> und <code>startIndex</code> analog zur Funkton <code>getArrayElements()</code>.
+                Der Parameter <code>everyIth</code> kann auch größer sein als die Array-Länge. Es wird dennoch immer mindestens ein Element gelöscht, nämlich das 0-te Element des Teil-Arrays. 
+                Geben Sie sowohl das Array ohne die gelöschten Elemente, als auch die gelöschten Elemente zurück (siehe Vorlage Rückgabewert   <code>newResult</code> und <code>removedItems</code>) (3 Punkte)
+              </p>
+            </td>
+          </tr>
+          <tr><td><b>command</b></td><td><b>expected</b></td><td><b>output</b></td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <!-- Aufgabe 3 -->
+    <div>
+      <table width="50%" style="margin: 0 auto;">
+        <tbody id="a03">
+          <tr><td colspan="3"><h3>Aufgabe 3 (5 Punkte)</h3></td></tr>
+          <tr>
+            <td colspan="3">
+              <p>Betrachten Sie die Datei <code>a03.js</code></p>
+              <p>
+                Implementieren Sie die Funktion <code>addObjectElement()</code>, die zwei Parameter (<code>key</code> und <code>value</code>) übergeben bekommt und dieses Wertepaar dem Objekt hinzufügt.
+                Sollte bereits ein Wertepaar mit dem selben Schlüssel (key) existieren, wird der Schlüssel umbenannt. 
+                <b>Zum Beispiel:</b> Das Wertepaar <code>{ a: 1 }</code> soll dem Objekt hinzugefügt werden, jedoch existiert bereits ein Wertepaar <code>{ a: 0 }</code>.
+                In diesem Fall wird <code>{ a_1: 1}</code> dem Objekt hinzufügt. Sollte der Schlüssel <code>a_1</code> ebenfalls bereits existieren, dann wird der Schlüssel in <code>a_2</code> umbenannt usw. (3 Punkte)
+              </p>
+              <p>
+                Implementieren Sie die Funktion <code>getObjectElements()</code>, die ein Array von Schlüsseln übergeben bekommt und für jeden Schlüssel den dazugehörigen Wert zurückgibt. 
+                Die entsprechenden Werte sollen in einem Array in analoger Reihenfolge zu den Schlüsseln zurückgegeben werden.
+                Sollte ein Schlüssel nicht existieren wird die Zeichenkette "not found" an der Stelle zurückgegeben. (1 Punkt)
+              </p>
+              <p>
+                Implementieren Sie analog die Funktion <code>deleteObjectElements()</code>, die ein Array von Schlüsseln übergeben bekommt und für jeden Schlüssel den dazugehörigen Wert löscht. 
+                Das resultierende Array soll als Rückgabewert zurückgegeben werden.
+                Schlüssel, die nicht existieren werden ignoriert. (1 Punkt)                
+              </p>
+            </td>
+          </tr>
+          <tr><td><b>command</b></td><td><b>expected</b></td><td><b>output</b></td></tr>
+        </tbody>
+      </table>
+    </div>    
+
+    <!-- scripts -->
+    <script src="a01.js"></script>
+    <script src="a02.js"></script>
+    <script src="a03.js"></script>
+    <script src="data.js"></script>
+    <script>
+      data
+        .map((e) => {
+          let expected = (typeof e.expected === "object") ? output(e.expected) : e.expected;
+          e["html"] = 
+            "<tr>" +
+              "<td>" + e.cmd + "</td>" +
+              "<td>" + expected + "</td>" + 
+              "<td id='" + e.id + "'></td>" + 
+            "</tr>";
+          return e;
+        })
+        .forEach((e) => {
+          let result = eval(e.cmd);
+          document.getElementById(e.id.split("-")[0]).innerHTML += e.html;
+          let cell = document.getElementById(e.id);
+          cell.innerHTML = output(result);
+          let expected = (typeof e.expected === "object") ? output(e.expected) : e.expected;
+          if (output(result) == expected) {
+            cell.style.background = "lightgreen";
+          } else {
+            cell.style.background = "lightcoral";
+          }
+        })
+
+      function output(string) {
+        return JSON.stringify(string).replaceAll(",", ", ")
+      }
+    </script>
+  </body>
+</html>
