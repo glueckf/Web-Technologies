@@ -1,9 +1,13 @@
 function multiply(number1, number2) {
   // TODO: implement me
-  return 0;
+  return number1 * number2;
 }
 
 function multiplyAll() {
   // TODO: implement me
-  return 0;
+  var result = 1;
+  for (var i = 0; i < arguments.length; i++){
+    result *= arguments[i];
+  }
+  return result;
 }
