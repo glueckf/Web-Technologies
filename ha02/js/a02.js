@@ -28,26 +28,23 @@ function getArrayElements(number, startIndex) {
 }
 
 function deleteArrayElements(number, startIndex, everyIth) {
-  let arrayCopy = []
+  let arrayCopy = [...array]
   let removedItems = []
-  if(!array || array.length === 0 || number <= 0){
-    return {
-      newResult: arrayCopy,
-      removedItems: removedItems
+
+  let normalizedIndex = startIndex % arrayCopy.length
+
+  for (let i = 0; i < number; i++){
+
+    if (i >= arrayCopy.length ||normalizedIndex >= arrayCopy.length){
+      continue;
     }
-  }
 
-  let normalizedIndex = startIndex % (array.length - 1)
+    if(i % everyIth === 0){
+      removedItems.push(arrayCopy[normalizedIndex])
+      arrayCopy[normalizedIndex] = null
+    }
 
-  let i = normalizedIndex;
-  while (i < array.length && i < (normalizedIndex + number)){
-    arrayCopy.push(array[i]);
-    i++;
-  }
-
-  for(let i = 0; i < arrayCopy.length; i += everyIth){
-    removedItems.push(arrayCopy[i])
-    arrayCopy[i] = null
+    normalizedIndex++
   }
 
   return {
