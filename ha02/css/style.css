@@ -1,0 +1,44 @@
+/* Allgemeine Formatierung */
+table tr td img {
+    vertical-align: middle;
+}
+/* Allgemeine Zeilenmuster */
+table tr:nth-child(even) {
+    background-color: lightgray;
+}
+
+/* Erste 5 Zeilen */
+table tr:nth-child(-1n+5) {
+    background-color: mediumblue;
+}
+table tr:nth-child(2) {
+    background-color: lightblue;
+    font-weight: bold;
+}
+table tr:nth-child(4) {
+    background-color: lightblue;
+}
+table tr:first-child {
+    background-color: grey;
+}
+
+/* Mittlere Zeilen */
+table tr:nth-child(6) {
+    background-color: lightsalmon;
+}
+table tr:nth-child(7) {
+    background-color: green;
+}
+
+/* Letzte Zeilen */
+table tr:nth-last-child(3) {
+    background-color: orange;
+}
+table tr:nth-last-child(-n+2) {
+    background-color: red;
+}
+table tr:nth-last-child(2) {
+    background-color: lightcoral;
+}
+
+
