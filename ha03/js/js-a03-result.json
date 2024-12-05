@@ -1,0 +1,3692 @@
+[
+    {
+      "matrikelnummer": 4695,
+      "students": [
+        {
+          "matrikelnummer": 4695,
+          "vorname": "Marie-josée",
+          "nachname": "Lamasna",
+          "adresse": "4444 Grayhawk Hill",
+          "course": "Medientechnik",
+          "semester": 12,
+          "email": "ilamasnau@amazon.co.jp",
+          "phone": "(727) 4187917"
+        },
+        {
+          "matrikelnummer": 4695,
+          "vorname": "Maïlis",
+          "nachname": "Dawes",
+          "adresse": "875 Corben Avenue",
+          "course": "Medientechnik",
+          "semester": 12,
+          "email": "cdawesv@myspace.com",
+          "phone": "(996) 7386162"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4525,
+      "students": [
+        {
+          "matrikelnummer": 4525,
+          "vorname": "Réservés",
+          "nachname": "Bonn",
+          "adresse": "8 Ruskin Trail",
+          "course": "Medieninformatik",
+          "semester": 9,
+          "email": "abonnm@ow.ly",
+          "phone": "(784) 5146981"
+        },
+        {
+          "matrikelnummer": 4525,
+          "vorname": "Tú",
+          "nachname": "Hacket",
+          "adresse": "013 Melrose Junction",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "rhackety@soup.io",
+          "phone": "(646) 5151877"
+        },
+        {
+          "matrikelnummer": 4525,
+          "vorname": "Anaé",
+          "nachname": "Beaman",
+          "adresse": "7 Sunbrook Park",
+          "course": "Wirtschaftsinformatik",
+          "semester": 2,
+          "email": "rbeaman51@unc.edu",
+          "phone": "(713) 6146217"
+        },
+        {
+          "matrikelnummer": 4525,
+          "vorname": "Anaël",
+          "nachname": "Okenden",
+          "adresse": "6 Annamark Lane",
+          "course": "Informatik",
+          "semester": 6,
+          "email": "aokenden9e@thetimes.co.uk",
+          "phone": "(347) 1390182"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4321,
+      "students": [
+        {
+          "matrikelnummer": 4321,
+          "vorname": "Tán",
+          "nachname": "Ellingworth",
+          "adresse": "7224 Tennessee Hill",
+          "course": "Medieninformatik",
+          "semester": 4,
+          "email": "sellingworth1@home.pl",
+          "phone": "(129) 5071723"
+        },
+        {
+          "matrikelnummer": 4321,
+          "vorname": "Mén",
+          "nachname": "Ballchin",
+          "adresse": "0 Crowley Place",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "jballchin15@time.com",
+          "phone": "(599) 2397588"
+        },
+        {
+          "matrikelnummer": 4321,
+          "vorname": "Gaïa",
+          "nachname": "Domenge",
+          "adresse": "7 Gateway Circle",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "cdomenge70@buzzfeed.com",
+          "phone": "(845) 6241514"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4698,
+      "students": [
+        {
+          "matrikelnummer": 4698,
+          "vorname": "Méthode",
+          "nachname": "Bertram",
+          "adresse": "3831 7th Alley",
+          "course": "Informatik",
+          "semester": 2,
+          "email": "sbertram6@facebook.com",
+          "phone": "(718) 1194256"
+        },
+        {
+          "matrikelnummer": 4698,
+          "vorname": "Eloïse",
+          "nachname": "Thunderman",
+          "adresse": "90 Mosinee Avenue",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "othunderman1n@cafepress.com",
+          "phone": "(765) 5081815"
+        },
+        {
+          "matrikelnummer": 4698,
+          "vorname": "Vénus",
+          "nachname": "Mulhill",
+          "adresse": "6 Roth Center",
+          "course": "Medientechnik",
+          "semester": 11,
+          "email": "mmulhill1z@globo.com",
+          "phone": "(182) 4585438"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4288,
+      "students": [
+        {
+          "matrikelnummer": 4288,
+          "vorname": "Adélaïde",
+          "nachname": "Mitham",
+          "adresse": "5 Blaine Avenue",
+          "course": "Medientechnik",
+          "semester": 10,
+          "email": "cmitham1j@nba.com",
+          "phone": "(983) 8772123"
+        },
+        {
+          "matrikelnummer": 4288,
+          "vorname": "Gérald",
+          "nachname": "Bantick",
+          "adresse": "0 Grover Circle",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "tbantick1u@newyorker.com",
+          "phone": "(833) 1341233"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4326,
+      "students": [
+        {
+          "matrikelnummer": 4326,
+          "vorname": "Cécile",
+          "nachname": "Wherry",
+          "adresse": "40233 Arkansas Place",
+          "course": "Informatik",
+          "semester": 2,
+          "email": "hwherry5@salon.com",
+          "phone": "(909) 1516626"
+        },
+        {
+          "matrikelnummer": 4326,
+          "vorname": "Adélaïde",
+          "nachname": "Beinisch",
+          "adresse": "79294 Cottonwood Way",
+          "course": "Medieninformatik",
+          "semester": 2,
+          "email": "hbeinisch1w@weebly.com",
+          "phone": "(322) 7607259"
+        },
+        {
+          "matrikelnummer": 4326,
+          "vorname": "Eléa",
+          "nachname": "Aers",
+          "adresse": "7241 Old Gate Trail",
+          "course": "Informatik",
+          "semester": 12,
+          "email": "gaers67@google.es",
+          "phone": "(486) 4709425"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4481,
+      "students": [
+        {
+          "matrikelnummer": 4481,
+          "vorname": "Tán",
+          "nachname": "Ranscomb",
+          "adresse": "63570 Bartillon Lane",
+          "course": "Medientechnik",
+          "semester": 8,
+          "email": "jranscombg@loc.gov",
+          "phone": "(344) 2077379"
+        },
+        {
+          "matrikelnummer": 4481,
+          "vorname": "Anaëlle",
+          "nachname": "Goning",
+          "adresse": "72192 Bunting Point",
+          "course": "Informatik",
+          "semester": 11,
+          "email": "tgoning2l@geocities.jp",
+          "phone": "(679) 6580006"
+        },
+        {
+          "matrikelnummer": 4481,
+          "vorname": "Inès",
+          "nachname": "Percy",
+          "adresse": "09708 Melrose Parkway",
+          "course": "Informatik",
+          "semester": 9,
+          "email": "jpercy57@dailymotion.com",
+          "phone": "(998) 1404212"
+        },
+        {
+          "matrikelnummer": 4481,
+          "vorname": "Göran",
+          "nachname": "Haylands",
+          "adresse": "25 New Castle Hill",
+          "course": "Medientechnik",
+          "semester": 5,
+          "email": "bhaylands61@apache.org",
+          "phone": "(185) 7624417"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4467,
+      "students": [
+        {
+          "matrikelnummer": 4467,
+          "vorname": "Renée",
+          "nachname": "Rizzardi",
+          "adresse": "05451 Memorial Parkway",
+          "course": "Wirtschaftsinformatik",
+          "semester": 10,
+          "email": "crizzardiz@wiley.com",
+          "phone": "(677) 3519512"
+        },
+        {
+          "matrikelnummer": 4467,
+          "vorname": "Laurélie",
+          "nachname": "Polack",
+          "adresse": "894 Mccormick Pass",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "kpolack2n@ihg.com",
+          "phone": "(629) 8873163"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4497,
+      "students": [
+        {
+          "matrikelnummer": 4497,
+          "vorname": "Solène",
+          "nachname": "Jura",
+          "adresse": "27879 Dottie Plaza",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "ajura19@ezinearticles.com",
+          "phone": "(179) 6864359"
+        },
+        {
+          "matrikelnummer": 4497,
+          "vorname": "Yénora",
+          "nachname": "Kilian",
+          "adresse": "5 Arrowood Park",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "kkilian2s@apple.com",
+          "phone": "(105) 9490812"
+        },
+        {
+          "matrikelnummer": 4497,
+          "vorname": "Gösta",
+          "nachname": "Evitt",
+          "adresse": "46332 Talisman Junction",
+          "course": "Medieninformatik",
+          "semester": 2,
+          "email": "aevittbr@ameblo.jp",
+          "phone": "(606) 9085153"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4403,
+      "students": [
+        {
+          "matrikelnummer": 4403,
+          "vorname": "Anaé",
+          "nachname": "Henrionot",
+          "adresse": "61979 Mallard Terrace",
+          "course": "Wirtschaftsinformatik",
+          "semester": 8,
+          "email": "dhenrionote@utexas.edu",
+          "phone": "(451) 3512477"
+        },
+        {
+          "matrikelnummer": 4403,
+          "vorname": "Lyséa",
+          "nachname": "De Blasio",
+          "adresse": "88 Cherokee Avenue",
+          "course": "Wirtschaftsinformatik",
+          "semester": 7,
+          "email": "wdeblasio32@technorati.com",
+          "phone": "(250) 5785082"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4556,
+      "students": [
+        {
+          "matrikelnummer": 4556,
+          "vorname": "Styrbjörn",
+          "nachname": "Kingsworth",
+          "adresse": "17143 Monument Junction",
+          "course": "Wirtschaftsinformatik",
+          "semester": 8,
+          "email": "tkingsworth3@google.co.uk",
+          "phone": "(517) 1329873"
+        },
+        {
+          "matrikelnummer": 4556,
+          "vorname": "Bérengère",
+          "nachname": "Chatan",
+          "adresse": "855 Eagle Crest Parkway",
+          "course": "Medientechnik",
+          "semester": 10,
+          "email": "tchatan33@so-net.ne.jp",
+          "phone": "(974) 6990556"
+        },
+        {
+          "matrikelnummer": 4556,
+          "vorname": "Rachèle",
+          "nachname": "Eastop",
+          "adresse": "94361 John Wall Lane",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "beastopb3@mapy.cz",
+          "phone": "(303) 2115006"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4468,
+      "students": [
+        {
+          "matrikelnummer": 4468,
+          "vorname": "Edmée",
+          "nachname": "Spedroni",
+          "adresse": "2 Westport Lane",
+          "course": "Medientechnik",
+          "semester": 11,
+          "email": "aspedronis@aol.com",
+          "phone": "(310) 3094790"
+        },
+        {
+          "matrikelnummer": 4468,
+          "vorname": "Liè",
+          "nachname": "Larkins",
+          "adresse": "6 Shelley Way",
+          "course": "Informatik",
+          "semester": 5,
+          "email": "llarkins36@digg.com",
+          "phone": "(513) 7400481"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4545,
+      "students": [
+        {
+          "matrikelnummer": 4545,
+          "vorname": "Océane",
+          "nachname": "McLauchlin",
+          "adresse": "6317 Clemons Avenue",
+          "course": "Informatik",
+          "semester": 11,
+          "email": "kmclauchlin39@comsenz.com",
+          "phone": "(828) 5417831"
+        },
+        {
+          "matrikelnummer": 4545,
+          "vorname": "Naëlle",
+          "nachname": "Tierny",
+          "adresse": "573 Cherokee Lane",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "ftierny3h@360.cn",
+          "phone": "(255) 1758151"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4371,
+      "students": [
+        {
+          "matrikelnummer": 4371,
+          "vorname": "Océanne",
+          "nachname": "Ryan",
+          "adresse": "6146 Coleman Drive",
+          "course": "Medientechnik",
+          "semester": 4,
+          "email": "mryan3f@quantcast.com",
+          "phone": "(486) 6904196"
+        },
+        {
+          "matrikelnummer": 4371,
+          "vorname": "Danièle",
+          "nachname": "Klemt",
+          "adresse": "23942 Basil Drive",
+          "course": "Informatik",
+          "semester": 1,
+          "email": "kklemt3m@delicious.com",
+          "phone": "(141) 4175969"
+        },
+        {
+          "matrikelnummer": 4371,
+          "vorname": "Styrbjörn",
+          "nachname": "Kingsnoad",
+          "adresse": "93510 Dahle Park",
+          "course": "Medientechnik",
+          "semester": 10,
+          "email": "dkingsnoad9y@gov.uk",
+          "phone": "(488) 5104119"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4658,
+      "students": [
+        {
+          "matrikelnummer": 4658,
+          "vorname": "Clélia",
+          "nachname": "Georgeson",
+          "adresse": "33 Darwin Parkway",
+          "course": "Wirtschaftsinformatik",
+          "semester": 7,
+          "email": "rgeorgeson2q@webs.com",
+          "phone": "(903) 9729099"
+        },
+        {
+          "matrikelnummer": 4658,
+          "vorname": "Mélys",
+          "nachname": "Custy",
+          "adresse": "149 Melvin Center",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "dcusty42@live.com",
+          "phone": "(899) 9566972"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4446,
+      "students": [
+        {
+          "matrikelnummer": 4446,
+          "vorname": "Maëlle",
+          "nachname": "Castro",
+          "adresse": "548 Kingsford Drive",
+          "course": "Medieninformatik",
+          "semester": 11,
+          "email": "rcastro3d@state.tx.us",
+          "phone": "(124) 8439776"
+        },
+        {
+          "matrikelnummer": 4446,
+          "vorname": "Crééz",
+          "nachname": "Cota",
+          "adresse": "17860 Vahlen Center",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "wcota43@sohu.com",
+          "phone": "(404) 2620325"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4271,
+      "students": [
+        {
+          "matrikelnummer": 4271,
+          "vorname": "Clémentine",
+          "nachname": "Bysshe",
+          "adresse": "097 Sage Parkway",
+          "course": "Medieninformatik",
+          "semester": 3,
+          "email": "abysshe8@statcounter.com",
+          "phone": "(813) 3885780"
+        },
+        {
+          "matrikelnummer": 4271,
+          "vorname": "Gisèle",
+          "nachname": "Shergold",
+          "adresse": "8623 Aberg Road",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "kshergold48@seattletimes.com",
+          "phone": "(379) 3068153"
+        },
+        {
+          "matrikelnummer": 4271,
+          "vorname": "Lài",
+          "nachname": "Gravenell",
+          "adresse": "0989 Buhler Avenue",
+          "course": "Medieninformatik",
+          "semester": 5,
+          "email": "rgravenellcq@alibaba.com",
+          "phone": "(847) 7592817"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4283,
+      "students": [
+        {
+          "matrikelnummer": 4283,
+          "vorname": "Maï",
+          "nachname": "Scrange",
+          "adresse": "610 Anniversary Circle",
+          "course": "Informatik",
+          "semester": 8,
+          "email": "jscrange2d@booking.com",
+          "phone": "(798) 7576092"
+        },
+        {
+          "matrikelnummer": 4283,
+          "vorname": "Véronique",
+          "nachname": "Jurczak",
+          "adresse": "989 Eagle Crest Hill",
+          "course": "Medieninformatik",
+          "semester": 6,
+          "email": "njurczak4a@barnesandnoble.com",
+          "phone": "(188) 7108162"
+        },
+        {
+          "matrikelnummer": 4283,
+          "vorname": "Béatrice",
+          "nachname": "Ropars",
+          "adresse": "14715 Hauk Court",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "rropars97@lycos.com",
+          "phone": "(654) 1168075"
+        },
+        {
+          "matrikelnummer": 4283,
+          "vorname": "Jú",
+          "nachname": "Crocumbe",
+          "adresse": "3 Elka Court",
+          "course": "Medieninformatik",
+          "semester": 4,
+          "email": "acrocumbeat@blogs.com",
+          "phone": "(853) 7966041"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4384,
+      "students": [
+        {
+          "matrikelnummer": 4384,
+          "vorname": "Erwéi",
+          "nachname": "Kemmis",
+          "adresse": "9063 Sage Parkway",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "okemmis2a@feedburner.com",
+          "phone": "(279) 1825507"
+        },
+        {
+          "matrikelnummer": 4384,
+          "vorname": "Agnès",
+          "nachname": "Lowres",
+          "adresse": "677 Jenna Circle",
+          "course": "Wirtschaftsinformatik",
+          "semester": 11,
+          "email": "hlowres4c@usa.gov",
+          "phone": "(823) 3405601"
+        },
+        {
+          "matrikelnummer": 4384,
+          "vorname": "Ráo",
+          "nachname": "Spitell",
+          "adresse": "3 Sutherland Way",
+          "course": "Medieninformatik",
+          "semester": 6,
+          "email": "rspitell6v@infoseek.co.jp",
+          "phone": "(719) 1159243"
+        },
+        {
+          "matrikelnummer": 4384,
+          "vorname": "Chloé",
+          "nachname": "Granham",
+          "adresse": "39169 Shopko Avenue",
+          "course": "Medientechnik",
+          "semester": 8,
+          "email": "bgranhamdn@cbc.ca",
+          "phone": "(751) 5363413"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4741,
+      "students": [
+        {
+          "matrikelnummer": 4741,
+          "vorname": "Cloé",
+          "nachname": "de la Tremoille",
+          "adresse": "3239 Superior Plaza",
+          "course": "Wirtschaftsinformatik",
+          "semester": 11,
+          "email": "ddelatremoille3s@example.com",
+          "phone": "(199) 6458499"
+        },
+        {
+          "matrikelnummer": 4741,
+          "vorname": "Béatrice",
+          "nachname": "Hindes",
+          "adresse": "8923 Ridgeway Terrace",
+          "course": "Wirtschaftsinformatik",
+          "semester": 9,
+          "email": "dhindes4g@narod.ru",
+          "phone": "(944) 7062121"
+        },
+        {
+          "matrikelnummer": 4741,
+          "vorname": "Laurène",
+          "nachname": "Benois",
+          "adresse": "13 Atwood Park",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "fbenoiscm@vinaora.com",
+          "phone": "(293) 6802582"
+        },
+        {
+          "matrikelnummer": 4741,
+          "vorname": "Maïwenn",
+          "nachname": "Vipan",
+          "adresse": "0 Express Street",
+          "course": "Medientechnik",
+          "semester": 4,
+          "email": "jvipand8@lulu.com",
+          "phone": "(374) 5436619"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4444,
+      "students": [
+        {
+          "matrikelnummer": 4444,
+          "vorname": "Océanne",
+          "nachname": "Childe",
+          "adresse": "2191 Butterfield Point",
+          "course": "Medientechnik",
+          "semester": 4,
+          "email": "jchilde2x@ucoz.ru",
+          "phone": "(423) 8623750"
+        },
+        {
+          "matrikelnummer": 4444,
+          "vorname": "Bérénice",
+          "nachname": "Greenwood",
+          "adresse": "46763 Troy Crossing",
+          "course": "Wirtschaftsinformatik",
+          "semester": 10,
+          "email": "sgreenwood4j@icio.us",
+          "phone": "(276) 8985567"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4370,
+      "students": [
+        {
+          "matrikelnummer": 4370,
+          "vorname": "Aloïs",
+          "nachname": "Butland",
+          "adresse": "0791 Lyons Way",
+          "course": "Medientechnik",
+          "semester": 7,
+          "email": "zbutland17@hexun.com",
+          "phone": "(570) 8767737"
+        },
+        {
+          "matrikelnummer": 4370,
+          "vorname": "Maïly",
+          "nachname": "Rosoni",
+          "adresse": "2699 Alpine Crossing",
+          "course": "Medientechnik",
+          "semester": 12,
+          "email": "srosoni4m@yolasite.com",
+          "phone": "(113) 4364895"
+        },
+        {
+          "matrikelnummer": 4370,
+          "vorname": "Marie-hélène",
+          "nachname": "Marrill",
+          "adresse": "6874 Golf Course Drive",
+          "course": "Informatik",
+          "semester": 11,
+          "email": "jmarrill4r@bloglovin.com",
+          "phone": "(867) 9346808"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4628,
+      "students": [
+        {
+          "matrikelnummer": 4628,
+          "vorname": "Lén",
+          "nachname": "Beal",
+          "adresse": "2 International Crossing",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "hbeal2v@harvard.edu",
+          "phone": "(268) 8680630"
+        },
+        {
+          "matrikelnummer": 4628,
+          "vorname": "Léane",
+          "nachname": "Wiffler",
+          "adresse": "93 Superior Point",
+          "course": "Wirtschaftsinformatik",
+          "semester": 5,
+          "email": "dwiffler4q@samsung.com",
+          "phone": "(209) 5650918"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4302,
+      "students": [
+        {
+          "matrikelnummer": 4302,
+          "vorname": "Lauréna",
+          "nachname": "Dusey",
+          "adresse": "62 Nevada Lane",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "sdusey4n@mail.ru",
+          "phone": "(885) 6437118"
+        },
+        {
+          "matrikelnummer": 4302,
+          "vorname": "Anaëlle",
+          "nachname": "Cherrett",
+          "adresse": "1 Farragut Junction",
+          "course": "Medientechnik",
+          "semester": 5,
+          "email": "dcherrett4v@theatlantic.com",
+          "phone": "(713) 1752507"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4334,
+      "students": [
+        {
+          "matrikelnummer": 4334,
+          "vorname": "Andrée",
+          "nachname": "Zimmermeister",
+          "adresse": "757 Graedel Way",
+          "course": "Wirtschaftsinformatik",
+          "semester": 1,
+          "email": "jzimmermeister2f@census.gov",
+          "phone": "(203) 1124355"
+        },
+        {
+          "matrikelnummer": 4334,
+          "vorname": "Estève",
+          "nachname": "Attock",
+          "adresse": "37 Badeau Pass",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "jattock4w@github.com",
+          "phone": "(628) 5918775"
+        },
+        {
+          "matrikelnummer": 4334,
+          "vorname": "Sélène",
+          "nachname": "McClifferty",
+          "adresse": "43706 Little Fleur Circle",
+          "course": "Informatik",
+          "semester": 4,
+          "email": "cmcclifferty7i@storify.com",
+          "phone": "(950) 5174478"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4485,
+      "students": [
+        {
+          "matrikelnummer": 4485,
+          "vorname": "Liè",
+          "nachname": "Hearse",
+          "adresse": "4 Harper Plaza",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "khearse4z@angelfire.com",
+          "phone": "(562) 9133428"
+        },
+        {
+          "matrikelnummer": 4485,
+          "vorname": "Maëlann",
+          "nachname": "Barta",
+          "adresse": "6921 Duke Plaza",
+          "course": "Medieninformatik",
+          "semester": 9,
+          "email": "rbarta53@mysql.com",
+          "phone": "(736) 8243597"
+        },
+        {
+          "matrikelnummer": 4485,
+          "vorname": "Nélie",
+          "nachname": "Beardwood",
+          "adresse": "6173 Oriole Crossing",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "rbeardwood85@java.com",
+          "phone": "(149) 5111551"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4363,
+      "students": [
+        {
+          "matrikelnummer": 4363,
+          "vorname": "Kévina",
+          "nachname": "Rodinger",
+          "adresse": "152 Gale Plaza",
+          "course": "Informatik",
+          "semester": 1,
+          "email": "erodinger4i@meetup.com",
+          "phone": "(578) 9738844"
+        },
+        {
+          "matrikelnummer": 4363,
+          "vorname": "Alizée",
+          "nachname": "Langan",
+          "adresse": "9 Maywood Way",
+          "course": "Medientechnik",
+          "semester": 12,
+          "email": "mlangan54@unblog.fr",
+          "phone": "(208) 7141170"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4413,
+      "students": [
+        {
+          "matrikelnummer": 4413,
+          "vorname": "Loïc",
+          "nachname": "Derycot",
+          "adresse": "51572 Loftsgordon Drive",
+          "course": "Medientechnik",
+          "semester": 11,
+          "email": "gderycot1m@clickbank.net",
+          "phone": "(739) 7847851"
+        },
+        {
+          "matrikelnummer": 4413,
+          "vorname": "Alizée",
+          "nachname": "Fagge",
+          "adresse": "08 Badeau Street",
+          "course": "Medieninformatik",
+          "semester": 3,
+          "email": "efagge5b@macromedia.com",
+          "phone": "(622) 2900055"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4650,
+      "students": [
+        {
+          "matrikelnummer": 4650,
+          "vorname": "Lucrèce",
+          "nachname": "Sigmund",
+          "adresse": "2 Sundown Place",
+          "course": "Medieninformatik",
+          "semester": 7,
+          "email": "ssigmundx@ebay.co.uk",
+          "phone": "(542) 4823663"
+        },
+        {
+          "matrikelnummer": 4650,
+          "vorname": "Laïla",
+          "nachname": "Windrus",
+          "adresse": "897 Debra Way",
+          "course": "Medieninformatik",
+          "semester": 10,
+          "email": "owindrus5c@usnews.com",
+          "phone": "(348) 7879483"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4320,
+      "students": [
+        {
+          "matrikelnummer": 4320,
+          "vorname": "Célestine",
+          "nachname": "Phoebe",
+          "adresse": "6 Ludington Terrace",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "tphoebe1b@time.com",
+          "phone": "(102) 1575069"
+        },
+        {
+          "matrikelnummer": 4320,
+          "vorname": "Naéva",
+          "nachname": "Dahle",
+          "adresse": "1448 Blackbird Place",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "edahle5d@cbsnews.com",
+          "phone": "(609) 2858004"
+        },
+        {
+          "matrikelnummer": 4320,
+          "vorname": "Michèle",
+          "nachname": "Tyer",
+          "adresse": "0961 Carpenter Trail",
+          "course": "Wirtschaftsinformatik",
+          "semester": 2,
+          "email": "atyerbd@msu.edu",
+          "phone": "(916) 1649226"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4593,
+      "students": [
+        {
+          "matrikelnummer": 4593,
+          "vorname": "Mårten",
+          "nachname": "Katt",
+          "adresse": "9 Debs Plaza",
+          "course": "Medientechnik",
+          "semester": 9,
+          "email": "ckatt59@wikipedia.org",
+          "phone": "(730) 4369839"
+        },
+        {
+          "matrikelnummer": 4593,
+          "vorname": "Lén",
+          "nachname": "Hamsson",
+          "adresse": "8 Artisan Pass",
+          "course": "Wirtschaftsinformatik",
+          "semester": 10,
+          "email": "thamsson5h@reverbnation.com",
+          "phone": "(898) 6712171"
+        },
+        {
+          "matrikelnummer": 4593,
+          "vorname": "Maïlis",
+          "nachname": "Lenoir",
+          "adresse": "3 High Crossing Road",
+          "course": "Informatik",
+          "semester": 2,
+          "email": "mlenoirdu@about.com",
+          "phone": "(134) 2135707"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4312,
+      "students": [
+        {
+          "matrikelnummer": 4312,
+          "vorname": "Håkan",
+          "nachname": "Gay",
+          "adresse": "8478 Hanover Alley",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "jgay56@businessweek.com",
+          "phone": "(518) 4693973"
+        },
+        {
+          "matrikelnummer": 4312,
+          "vorname": "Yáo",
+          "nachname": "Swinfon",
+          "adresse": "729 Tomscot Center",
+          "course": "Informatik",
+          "semester": 4,
+          "email": "bswinfon5i@youtube.com",
+          "phone": "(516) 3280611"
+        },
+        {
+          "matrikelnummer": 4312,
+          "vorname": "Océanne",
+          "nachname": "Reilinger",
+          "adresse": "50822 Haas Hill",
+          "course": "Medientechnik",
+          "semester": 12,
+          "email": "kreilinger84@spiegel.de",
+          "phone": "(361) 3221345"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4675,
+      "students": [
+        {
+          "matrikelnummer": 4675,
+          "vorname": "Irène",
+          "nachname": "Favell",
+          "adresse": "21 David Center",
+          "course": "Informatik",
+          "semester": 11,
+          "email": "sfavell1p@seesaa.net",
+          "phone": "(860) 4510876"
+        },
+        {
+          "matrikelnummer": 4675,
+          "vorname": "Almérinda",
+          "nachname": "Reid",
+          "adresse": "02276 Kensington Court",
+          "course": "Wirtschaftsinformatik",
+          "semester": 7,
+          "email": "kreid5j@berkeley.edu",
+          "phone": "(711) 5651509"
+        },
+        {
+          "matrikelnummer": 4675,
+          "vorname": "Aloïs",
+          "nachname": "Caffin",
+          "adresse": "175 Fuller Place",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "jcaffinam@census.gov",
+          "phone": "(844) 2146551"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4328,
+      "students": [
+        {
+          "matrikelnummer": 4328,
+          "vorname": "Publicité",
+          "nachname": "Mahony",
+          "adresse": "3399 Vahlen Street",
+          "course": "Medientechnik",
+          "semester": 4,
+          "email": "rmahony2z@imageshack.us",
+          "phone": "(904) 6470784"
+        },
+        {
+          "matrikelnummer": 4328,
+          "vorname": "Åke",
+          "nachname": "Pim",
+          "adresse": "5 Surrey Crossing",
+          "course": "Medieninformatik",
+          "semester": 1,
+          "email": "tpim5l@fema.gov",
+          "phone": "(389) 5996619"
+        },
+        {
+          "matrikelnummer": 4328,
+          "vorname": "Simplifiés",
+          "nachname": "Inker",
+          "adresse": "66 Evergreen Circle",
+          "course": "Wirtschaftsinformatik",
+          "semester": 4,
+          "email": "minker7s@google.com",
+          "phone": "(626) 3203415"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4714,
+      "students": [
+        {
+          "matrikelnummer": 4714,
+          "vorname": "Marylène",
+          "nachname": "Govier",
+          "adresse": "377 Grayhawk Court",
+          "course": "Informatik",
+          "semester": 11,
+          "email": "dgovier55@trellian.com",
+          "phone": "(581) 6547198"
+        },
+        {
+          "matrikelnummer": 4714,
+          "vorname": "Océane",
+          "nachname": "Margiotta",
+          "adresse": "1 Hoffman Avenue",
+          "course": "Medieninformatik",
+          "semester": 7,
+          "email": "cmargiotta5m@chron.com",
+          "phone": "(351) 8289182"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4399,
+      "students": [
+        {
+          "matrikelnummer": 4399,
+          "vorname": "Anaé",
+          "nachname": "Rockcliffe",
+          "adresse": "837 Roth Crossing",
+          "course": "Medieninformatik",
+          "semester": 9,
+          "email": "jrockcliffeq@csmonitor.com",
+          "phone": "(425) 9153560"
+        },
+        {
+          "matrikelnummer": 4399,
+          "vorname": "Eloïse",
+          "nachname": "Stiling",
+          "adresse": "5 Swallow Circle",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "estiling5n@stumbleupon.com",
+          "phone": "(228) 5955528"
+        },
+        {
+          "matrikelnummer": 4399,
+          "vorname": "Hélèna",
+          "nachname": "Maund",
+          "adresse": "7 South Junction",
+          "course": "Medieninformatik",
+          "semester": 3,
+          "email": "smaund79@tmall.com",
+          "phone": "(697) 9804268"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4319,
+      "students": [
+        {
+          "matrikelnummer": 4319,
+          "vorname": "Uò",
+          "nachname": "Davidsen",
+          "adresse": "7344 Merchant Junction",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "sdavidsen1d@ca.gov",
+          "phone": "(665) 1041725"
+        },
+        {
+          "matrikelnummer": 4319,
+          "vorname": "Thérèsa",
+          "nachname": "Dods",
+          "adresse": "26 Fuller Avenue",
+          "course": "Informatik",
+          "semester": 2,
+          "email": "cdods5o@dell.com",
+          "phone": "(865) 6127682"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4266,
+      "students": [
+        {
+          "matrikelnummer": 4266,
+          "vorname": "Laurène",
+          "nachname": "Yarnell",
+          "adresse": "7136 Evergreen Street",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "pyarnell4u@gmpg.org",
+          "phone": "(186) 9362670"
+        },
+        {
+          "matrikelnummer": 4266,
+          "vorname": "Méthode",
+          "nachname": "Prott",
+          "adresse": "56 Tony Way",
+          "course": "Informatik",
+          "semester": 4,
+          "email": "gprott5q@mit.edu",
+          "phone": "(530) 8908895"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4366,
+      "students": [
+        {
+          "matrikelnummer": 4366,
+          "vorname": "Pénélope",
+          "nachname": "Caesar",
+          "adresse": "3921 Petterle Road",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "mcaesar41@usnews.com",
+          "phone": "(317) 3924902"
+        },
+        {
+          "matrikelnummer": 4366,
+          "vorname": "Cinéma",
+          "nachname": "Greenhill",
+          "adresse": "61697 Gateway Court",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "ngreenhill5v@wikia.com",
+          "phone": "(250) 3382617"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4491,
+      "students": [
+        {
+          "matrikelnummer": 4491,
+          "vorname": "Cléa",
+          "nachname": "Card",
+          "adresse": "38 Mesta Way",
+          "course": "Medieninformatik",
+          "semester": 10,
+          "email": "icard1k@uol.com.br",
+          "phone": "(810) 1247185"
+        },
+        {
+          "matrikelnummer": 4491,
+          "vorname": "Naéva",
+          "nachname": "Glastonbury",
+          "adresse": "39448 Rieder Point",
+          "course": "Medieninformatik",
+          "semester": 10,
+          "email": "jglastonbury65@theguardian.com",
+          "phone": "(125) 8735773"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4317,
+      "students": [
+        {
+          "matrikelnummer": 4317,
+          "vorname": "Lauréna",
+          "nachname": "Peckett",
+          "adresse": "5241 Bultman Point",
+          "course": "Medieninformatik",
+          "semester": 9,
+          "email": "bpeckettr@wp.com",
+          "phone": "(777) 4063361"
+        },
+        {
+          "matrikelnummer": 4317,
+          "vorname": "Marie-hélène",
+          "nachname": "Longman",
+          "adresse": "1072 John Wall Place",
+          "course": "Medieninformatik",
+          "semester": 2,
+          "email": "elongman6d@webs.com",
+          "phone": "(531) 9774429"
+        },
+        {
+          "matrikelnummer": 4317,
+          "vorname": "Méghane",
+          "nachname": "Ragate",
+          "adresse": "39780 Acker Parkway",
+          "course": "Medieninformatik",
+          "semester": 5,
+          "email": "bragate7u@imgur.com",
+          "phone": "(694) 3023951"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4507,
+      "students": [
+        {
+          "matrikelnummer": 4507,
+          "vorname": "Annotée",
+          "nachname": "Mallon",
+          "adresse": "04 Harper Alley",
+          "course": "Medieninformatik",
+          "semester": 2,
+          "email": "rmallon7@usnews.com",
+          "phone": "(122) 8014862"
+        },
+        {
+          "matrikelnummer": 4507,
+          "vorname": "Méng",
+          "nachname": "Adelman",
+          "adresse": "52165 Springs Alley",
+          "course": "Informatik",
+          "semester": 9,
+          "email": "ladelman6f@stanford.edu",
+          "phone": "(374) 5224528"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4657,
+      "students": [
+        {
+          "matrikelnummer": 4657,
+          "vorname": "Maëlla",
+          "nachname": "O'Brallaghan",
+          "adresse": "128 Packers Avenue",
+          "course": "Medieninformatik",
+          "semester": 4,
+          "email": "fobrallaghan1f@hc360.com",
+          "phone": "(471) 7772362"
+        },
+        {
+          "matrikelnummer": 4657,
+          "vorname": "Laïla",
+          "nachname": "Rupel",
+          "adresse": "324 American Ash Center",
+          "course": "Informatik",
+          "semester": 6,
+          "email": "erupel6m@slashdot.org",
+          "phone": "(214) 7204528"
+        },
+        {
+          "matrikelnummer": 4657,
+          "vorname": "Göran",
+          "nachname": "O'Nions",
+          "adresse": "3745 Johnson Hill",
+          "course": "Medientechnik",
+          "semester": 4,
+          "email": "konionsc4@networksolutions.com",
+          "phone": "(814) 8870836"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4707,
+      "students": [
+        {
+          "matrikelnummer": 4707,
+          "vorname": "Liè",
+          "nachname": "Chapling",
+          "adresse": "81 Jenifer Crossing",
+          "course": "Wirtschaftsinformatik",
+          "semester": 1,
+          "email": "jchapling2u@geocities.jp",
+          "phone": "(324) 7447078"
+        },
+        {
+          "matrikelnummer": 4707,
+          "vorname": "Géraldine",
+          "nachname": "Billings",
+          "adresse": "8921 Huxley Hill",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "abillings6w@cbsnews.com",
+          "phone": "(529) 9063323"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4502,
+      "students": [
+        {
+          "matrikelnummer": 4502,
+          "vorname": "Anaëlle",
+          "nachname": "Britney",
+          "adresse": "2838 3rd Pass",
+          "course": "Medientechnik",
+          "semester": 3,
+          "email": "abritney52@devhub.com",
+          "phone": "(261) 9289018"
+        },
+        {
+          "matrikelnummer": 4502,
+          "vorname": "Aurélie",
+          "nachname": "Buttwell",
+          "adresse": "5636 Muir Point",
+          "course": "Medieninformatik",
+          "semester": 3,
+          "email": "mbuttwell6z@state.tx.us",
+          "phone": "(863) 4422525"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4694,
+      "students": [
+        {
+          "matrikelnummer": 4694,
+          "vorname": "Eléa",
+          "nachname": "McGowing",
+          "adresse": "2 Bartillon Place",
+          "course": "Medientechnik",
+          "semester": 8,
+          "email": "gmcgowingi@nytimes.com",
+          "phone": "(821) 2145531"
+        },
+        {
+          "matrikelnummer": 4694,
+          "vorname": "Ruì",
+          "nachname": "Bairnsfather",
+          "adresse": "61 Wayridge Trail",
+          "course": "Medientechnik",
+          "semester": 2,
+          "email": "ebairnsfather7f@wikimedia.org",
+          "phone": "(450) 9406025"
+        },
+        {
+          "matrikelnummer": 4694,
+          "vorname": "Dorothée",
+          "nachname": "Hendricks",
+          "adresse": "650 Grasskamp Circle",
+          "course": "Medieninformatik",
+          "semester": 11,
+          "email": "ahendricksag@fda.gov",
+          "phone": "(790) 1882144"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4542,
+      "students": [
+        {
+          "matrikelnummer": 4542,
+          "vorname": "Yáo",
+          "nachname": "Aldwich",
+          "adresse": "70322 Graceland Lane",
+          "course": "Medientechnik",
+          "semester": 12,
+          "email": "haldwich5k@yandex.ru",
+          "phone": "(193) 3190220"
+        },
+        {
+          "matrikelnummer": 4542,
+          "vorname": "Danièle",
+          "nachname": "Baukham",
+          "adresse": "14550 Iowa Plaza",
+          "course": "Medientechnik",
+          "semester": 3,
+          "email": "ibaukham7g@lulu.com",
+          "phone": "(239) 5179084"
+        },
+        {
+          "matrikelnummer": 4542,
+          "vorname": "Marie-hélène",
+          "nachname": "Robken",
+          "adresse": "37 Nelson Drive",
+          "course": "Informatik",
+          "semester": 11,
+          "email": "lrobken8d@dion.ne.jp",
+          "phone": "(451) 6213112"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4423,
+      "students": [
+        {
+          "matrikelnummer": 4423,
+          "vorname": "Bénédicte",
+          "nachname": "Marshallsay",
+          "adresse": "398 Michigan Court",
+          "course": "Medientechnik",
+          "semester": 4,
+          "email": "omarshallsay78@jalbum.net",
+          "phone": "(671) 9659829"
+        },
+        {
+          "matrikelnummer": 4423,
+          "vorname": "Maïlys",
+          "nachname": "Speenden",
+          "adresse": "9732 Springs Trail",
+          "course": "Medieninformatik",
+          "semester": 6,
+          "email": "hspeenden7j@archive.org",
+          "phone": "(913) 1242080"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4739,
+      "students": [
+        {
+          "matrikelnummer": 4739,
+          "vorname": "Stéphanie",
+          "nachname": "Cossins",
+          "adresse": "77697 Sauthoff Crossing",
+          "course": "Informatik",
+          "semester": 9,
+          "email": "zcossins2e@mit.edu",
+          "phone": "(830) 9095667"
+        },
+        {
+          "matrikelnummer": 4739,
+          "vorname": "Gösta",
+          "nachname": "Jeffreys",
+          "adresse": "923 John Wall Point",
+          "course": "Informatik",
+          "semester": 9,
+          "email": "vjeffreys7m@npr.org",
+          "phone": "(355) 8486739"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4250,
+      "students": [
+        {
+          "matrikelnummer": 4250,
+          "vorname": "Gérald",
+          "nachname": "Bayston",
+          "adresse": "3 Tony Street",
+          "course": "Informatik",
+          "semester": 5,
+          "email": "wbayston3x@cmu.edu",
+          "phone": "(404) 3665176"
+        },
+        {
+          "matrikelnummer": 4250,
+          "vorname": "Vérane",
+          "nachname": "Roubert",
+          "adresse": "463 Lakewood Avenue",
+          "course": "Medientechnik",
+          "semester": 5,
+          "email": "aroubert7r@cornell.edu",
+          "phone": "(625) 8344564"
+        },
+        {
+          "matrikelnummer": 4250,
+          "vorname": "Östen",
+          "nachname": "Heggman",
+          "adresse": "8 Coleman Drive",
+          "course": "Medieninformatik",
+          "semester": 1,
+          "email": "kheggman9j@buzzfeed.com",
+          "phone": "(381) 8246163"
+        },
+        {
+          "matrikelnummer": 4250,
+          "vorname": "Wá",
+          "nachname": "Chasney",
+          "adresse": "919 Iowa Place",
+          "course": "Wirtschaftsinformatik",
+          "semester": 2,
+          "email": "mchasneydd@nasa.gov",
+          "phone": "(510) 1079563"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4251,
+      "students": [
+        {
+          "matrikelnummer": 4251,
+          "vorname": "Médiamass",
+          "nachname": "Ciccottio",
+          "adresse": "900 Mitchell Trail",
+          "course": "Medientechnik",
+          "semester": 5,
+          "email": "mciccottio0@bandcamp.com",
+          "phone": "(533) 9776037"
+        },
+        {
+          "matrikelnummer": 4251,
+          "vorname": "Cinéma",
+          "nachname": "Letts",
+          "adresse": "5 Heath Crossing",
+          "course": "Informatik",
+          "semester": 12,
+          "email": "aletts7y@hexun.com",
+          "phone": "(762) 8980167"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4396,
+      "students": [
+        {
+          "matrikelnummer": 4396,
+          "vorname": "Méthode",
+          "nachname": "Barrasse",
+          "adresse": "3 Graceland Parkway",
+          "course": "Medieninformatik",
+          "semester": 10,
+          "email": "dbarrasse26@mtv.com",
+          "phone": "(812) 9496872"
+        },
+        {
+          "matrikelnummer": 4396,
+          "vorname": "Marylène",
+          "nachname": "Anshell",
+          "adresse": "8 Truax Lane",
+          "course": "Wirtschaftsinformatik",
+          "semester": 10,
+          "email": "eanshell7z@goodreads.com",
+          "phone": "(379) 1489663"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4477,
+      "students": [
+        {
+          "matrikelnummer": 4477,
+          "vorname": "Mà",
+          "nachname": "Cardinal",
+          "adresse": "1305 Old Shore Trail",
+          "course": "Informatik",
+          "semester": 6,
+          "email": "acardinal3o@ucla.edu",
+          "phone": "(115) 8983431"
+        },
+        {
+          "matrikelnummer": 4477,
+          "vorname": "Maïté",
+          "nachname": "Maccraw",
+          "adresse": "4 Loomis Road",
+          "course": "Informatik",
+          "semester": 9,
+          "email": "pmaccraw82@istockphoto.com",
+          "phone": "(957) 3142439"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4436,
+      "students": [
+        {
+          "matrikelnummer": 4436,
+          "vorname": "Intéressant",
+          "nachname": "Raithby",
+          "adresse": "719 Maple Wood Pass",
+          "course": "Medieninformatik",
+          "semester": 6,
+          "email": "eraithby7n@nasa.gov",
+          "phone": "(519) 3634966"
+        },
+        {
+          "matrikelnummer": 4436,
+          "vorname": "Yénora",
+          "nachname": "Cordelette",
+          "adresse": "449 Mayer Plaza",
+          "course": "Informatik",
+          "semester": 1,
+          "email": "kcordelette86@canalblog.com",
+          "phone": "(872) 7283706"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4295,
+      "students": [
+        {
+          "matrikelnummer": 4295,
+          "vorname": "Nuó",
+          "nachname": "Poker",
+          "adresse": "3 Green Ridge Terrace",
+          "course": "Wirtschaftsinformatik",
+          "semester": 7,
+          "email": "kpoker87@friendfeed.com",
+          "phone": "(563) 1986229"
+        },
+        {
+          "matrikelnummer": 4295,
+          "vorname": "Mélina",
+          "nachname": "Camelli",
+          "adresse": "33283 Maple Crossing",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "fcamelli88@chronoengine.com",
+          "phone": "(906) 1710636"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4263,
+      "students": [
+        {
+          "matrikelnummer": 4263,
+          "vorname": "Tú",
+          "nachname": "Duell",
+          "adresse": "642 Donald Plaza",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "sduell38@shareasale.com",
+          "phone": "(141) 1863965"
+        },
+        {
+          "matrikelnummer": 4263,
+          "vorname": "Cécile",
+          "nachname": "Brellin",
+          "adresse": "6 Cardinal Plaza",
+          "course": "Informatik",
+          "semester": 4,
+          "email": "abrellin8b@blogspot.com",
+          "phone": "(843) 7670293"
+        },
+        {
+          "matrikelnummer": 4263,
+          "vorname": "Anaël",
+          "nachname": "Griffithe",
+          "adresse": "9571 Clarendon Street",
+          "course": "Wirtschaftsinformatik",
+          "semester": 11,
+          "email": "cgriffithedf@opera.com",
+          "phone": "(657) 8856360"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4546,
+      "students": [
+        {
+          "matrikelnummer": 4546,
+          "vorname": "Cécile",
+          "nachname": "Balchen",
+          "adresse": "184 Golf Center",
+          "course": "Wirtschaftsinformatik",
+          "semester": 9,
+          "email": "lbalchen37@wordpress.org",
+          "phone": "(192) 9904048"
+        },
+        {
+          "matrikelnummer": 4546,
+          "vorname": "Félicie",
+          "nachname": "Foort",
+          "adresse": "19 Waywood Avenue",
+          "course": "Wirtschaftsinformatik",
+          "semester": 5,
+          "email": "bfoort8c@yahoo.com",
+          "phone": "(339) 6633214"
+        },
+        {
+          "matrikelnummer": 4546,
+          "vorname": "Gwenaëlle",
+          "nachname": "Brideoke",
+          "adresse": "31518 Schurz Alley",
+          "course": "Medieninformatik",
+          "semester": 6,
+          "email": "lbrideokec2@hc360.com",
+          "phone": "(555) 4823690"
+        },
+        {
+          "matrikelnummer": 4546,
+          "vorname": "Célestine",
+          "nachname": "Askie",
+          "adresse": "392 Iowa Junction",
+          "course": "Medientechnik",
+          "semester": 5,
+          "email": "laskied6@ucoz.ru",
+          "phone": "(778) 4419714"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4560,
+      "students": [
+        {
+          "matrikelnummer": 4560,
+          "vorname": "Liè",
+          "nachname": "McElory",
+          "adresse": "712 Manufacturers Trail",
+          "course": "Wirtschaftsinformatik",
+          "semester": 11,
+          "email": "pmcelory3j@mozilla.org",
+          "phone": "(450) 6151178"
+        },
+        {
+          "matrikelnummer": 4560,
+          "vorname": "Bérengère",
+          "nachname": "Bensusan",
+          "adresse": "2400 Di Loreto Street",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "mbensusan8f@amazonaws.com",
+          "phone": "(131) 9680254"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4374,
+      "students": [
+        {
+          "matrikelnummer": 4374,
+          "vorname": "Dù",
+          "nachname": "Parsall",
+          "adresse": "714 Clove Road",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "sparsall8g@cmu.edu",
+          "phone": "(997) 6295707"
+        },
+        {
+          "matrikelnummer": 4374,
+          "vorname": "Maëlann",
+          "nachname": "Benneyworth",
+          "adresse": "17381 Surrey Center",
+          "course": "Medientechnik",
+          "semester": 2,
+          "email": "jbenneyworth8k@independent.co.uk",
+          "phone": "(510) 9229929"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4733,
+      "students": [
+        {
+          "matrikelnummer": 4733,
+          "vorname": "Camélia",
+          "nachname": "Gillatt",
+          "adresse": "9 Paget Point",
+          "course": "Medieninformatik",
+          "semester": 11,
+          "email": "ugillatt7l@ucoz.ru",
+          "phone": "(746) 7180244"
+        },
+        {
+          "matrikelnummer": 4733,
+          "vorname": "Mén",
+          "nachname": "Cleveland",
+          "adresse": "98 Talmadge Court",
+          "course": "Medieninformatik",
+          "semester": 2,
+          "email": "ocleveland8n@wufoo.com",
+          "phone": "(390) 1900826"
+        },
+        {
+          "matrikelnummer": 4733,
+          "vorname": "Réjane",
+          "nachname": "Durtnel",
+          "adresse": "76 Gale Circle",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "bdurtnelc3@addthis.com",
+          "phone": "(203) 4838615"
+        },
+        {
+          "matrikelnummer": 4733,
+          "vorname": "Josée",
+          "nachname": "Charker",
+          "adresse": "52 Messerschmidt Road",
+          "course": "Medieninformatik",
+          "semester": 10,
+          "email": "ncharkerci@ebay.co.uk",
+          "phone": "(827) 4878814"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4735,
+      "students": [
+        {
+          "matrikelnummer": 4735,
+          "vorname": "Gérald",
+          "nachname": "Verbeek",
+          "adresse": "759 Dakota Court",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "zverbeek2i@example.com",
+          "phone": "(238) 4130300"
+        },
+        {
+          "matrikelnummer": 4735,
+          "vorname": "Mårten",
+          "nachname": "Fulks",
+          "adresse": "32 Cambridge Lane",
+          "course": "Wirtschaftsinformatik",
+          "semester": 9,
+          "email": "wfulks8o@simplemachines.org",
+          "phone": "(299) 9142431"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4435,
+      "students": [
+        {
+          "matrikelnummer": 4435,
+          "vorname": "Marie-françoise",
+          "nachname": "Sones",
+          "adresse": "1553 Tennyson Drive",
+          "course": "Medientechnik",
+          "semester": 8,
+          "email": "dsonesb@hubpages.com",
+          "phone": "(934) 1342786"
+        },
+        {
+          "matrikelnummer": 4435,
+          "vorname": "Pénélope",
+          "nachname": "Juszczak",
+          "adresse": "0011 Charing Cross Alley",
+          "course": "Medientechnik",
+          "semester": 7,
+          "email": "ljuszczak8p@chicagotribune.com",
+          "phone": "(138) 1110900"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4297,
+      "students": [
+        {
+          "matrikelnummer": 4297,
+          "vorname": "Táng",
+          "nachname": "Dennes",
+          "adresse": "30 Thackeray Center",
+          "course": "Wirtschaftsinformatik",
+          "semester": 8,
+          "email": "adennes5e@irs.gov",
+          "phone": "(360) 5890570"
+        },
+        {
+          "matrikelnummer": 4297,
+          "vorname": "Dù",
+          "nachname": "Wafer",
+          "adresse": "639 Mariners Cove Junction",
+          "course": "Informatik",
+          "semester": 1,
+          "email": "hwafer8q@360.cn",
+          "phone": "(393) 3195519"
+        },
+        {
+          "matrikelnummer": 4297,
+          "vorname": "Åslög",
+          "nachname": "Turnell",
+          "adresse": "765 Browning Park",
+          "course": "Informatik",
+          "semester": 4,
+          "email": "bturnellaz@census.gov",
+          "phone": "(800) 3947996"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4262,
+      "students": [
+        {
+          "matrikelnummer": 4262,
+          "vorname": "Gösta",
+          "nachname": "MacGilrewy",
+          "adresse": "52312 Linden Circle",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "cmacgilrewy8i@cocolog-nifty.com",
+          "phone": "(991) 5814862"
+        },
+        {
+          "matrikelnummer": 4262,
+          "vorname": "Clélia",
+          "nachname": "Caseri",
+          "adresse": "4681 Goodland Street",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "pcaseri8v@tripadvisor.com",
+          "phone": "(438) 7510012"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4432,
+      "students": [
+        {
+          "matrikelnummer": 4432,
+          "vorname": "Mélodie",
+          "nachname": "Screaton",
+          "adresse": "91 Hoepker Pass",
+          "course": "Informatik",
+          "semester": 8,
+          "email": "gscreaton1q@odnoklassniki.ru",
+          "phone": "(991) 2758998"
+        },
+        {
+          "matrikelnummer": 4432,
+          "vorname": "Lài",
+          "nachname": "Muller",
+          "adresse": "306 Stephen Center",
+          "course": "Wirtschaftsinformatik",
+          "semester": 5,
+          "email": "bmuller91@dedecms.com",
+          "phone": "(616) 3601846"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4430,
+      "students": [
+        {
+          "matrikelnummer": 4430,
+          "vorname": "Lài",
+          "nachname": "Formby",
+          "adresse": "7 Nancy Circle",
+          "course": "Informatik",
+          "semester": 9,
+          "email": "mformby49@dedecms.com",
+          "phone": "(565) 8650889"
+        },
+        {
+          "matrikelnummer": 4430,
+          "vorname": "Illustrée",
+          "nachname": "Tyrwhitt",
+          "adresse": "329 Sommers Court",
+          "course": "Informatik",
+          "semester": 6,
+          "email": "atyrwhitt93@oakley.com",
+          "phone": "(656) 5493828"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4376,
+      "students": [
+        {
+          "matrikelnummer": 4376,
+          "vorname": "Sélène",
+          "nachname": "Gaspar",
+          "adresse": "75627 Spaight Terrace",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "bgaspar2g@geocities.jp",
+          "phone": "(775) 7968973"
+        },
+        {
+          "matrikelnummer": 4376,
+          "vorname": "Nélie",
+          "nachname": "Kirdsch",
+          "adresse": "9 Arapahoe Lane",
+          "course": "Medientechnik",
+          "semester": 2,
+          "email": "tkirdsch95@scribd.com",
+          "phone": "(389) 1070859"
+        },
+        {
+          "matrikelnummer": 4376,
+          "vorname": "Aí",
+          "nachname": "Illwell",
+          "adresse": "5 Chinook Lane",
+          "course": "Informatik",
+          "semester": 4,
+          "email": "lillwellb1@utexas.edu",
+          "phone": "(325) 8867158"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4627,
+      "students": [
+        {
+          "matrikelnummer": 4627,
+          "vorname": "Angélique",
+          "nachname": "Borges",
+          "adresse": "4643 Blackbird Drive",
+          "course": "Medieninformatik",
+          "semester": 9,
+          "email": "tborges6h@washington.edu",
+          "phone": "(678) 8002766"
+        },
+        {
+          "matrikelnummer": 4627,
+          "vorname": "Mélia",
+          "nachname": "Kubiczek",
+          "adresse": "257 Homewood Hill",
+          "course": "Informatik",
+          "semester": 3,
+          "email": "ekubiczek96@imgur.com",
+          "phone": "(806) 5837015"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4275,
+      "students": [
+        {
+          "matrikelnummer": 4275,
+          "vorname": "Maïlis",
+          "nachname": "Thunnercliff",
+          "adresse": "095 Ridgeway Center",
+          "course": "Medieninformatik",
+          "semester": 2,
+          "email": "bthunnercliff1x@unblog.fr",
+          "phone": "(952) 8884951"
+        },
+        {
+          "matrikelnummer": 4275,
+          "vorname": "Geneviève",
+          "nachname": "Denman",
+          "adresse": "69 Dahle Pass",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "bdenman9h@yellowpages.com",
+          "phone": "(292) 2551046"
+        },
+        {
+          "matrikelnummer": 4275,
+          "vorname": "Renée",
+          "nachname": "Glison",
+          "adresse": "33374 Hanson Street",
+          "course": "Wirtschaftsinformatik",
+          "semester": 2,
+          "email": "tglisondq@indiegogo.com",
+          "phone": "(904) 3297190"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4674,
+      "students": [
+        {
+          "matrikelnummer": 4674,
+          "vorname": "Mélina",
+          "nachname": "Langabeer",
+          "adresse": "6 Rieder Way",
+          "course": "Medientechnik",
+          "semester": 3,
+          "email": "nlangabeer6y@g.co",
+          "phone": "(234) 3699434"
+        },
+        {
+          "matrikelnummer": 4674,
+          "vorname": "Alizée",
+          "nachname": "Roughan",
+          "adresse": "481 5th Street",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "aroughan9l@goo.gl",
+          "phone": "(965) 9435417"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4348,
+      "students": [
+        {
+          "matrikelnummer": 4348,
+          "vorname": "Lucrèce",
+          "nachname": "Lamzed",
+          "adresse": "88987 Veith Court",
+          "course": "Informatik",
+          "semester": 8,
+          "email": "hlamzed6r@cocolog-nifty.com",
+          "phone": "(897) 6358429"
+        },
+        {
+          "matrikelnummer": 4348,
+          "vorname": "Mélinda",
+          "nachname": "Pordall",
+          "adresse": "107 School Circle",
+          "course": "Medientechnik",
+          "semester": 8,
+          "email": "epordall9n@typepad.com",
+          "phone": "(382) 7573540"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4479,
+      "students": [
+        {
+          "matrikelnummer": 4479,
+          "vorname": "Marylène",
+          "nachname": "Wissby",
+          "adresse": "379 Stoughton Court",
+          "course": "Medieninformatik",
+          "semester": 7,
+          "email": "dwissby29@google.de",
+          "phone": "(111) 3999404"
+        },
+        {
+          "matrikelnummer": 4479,
+          "vorname": "Félicie",
+          "nachname": "Jerschke",
+          "adresse": "7033 Golf Course Alley",
+          "course": "Wirtschaftsinformatik",
+          "semester": 8,
+          "email": "cjerschke9p@google.nl",
+          "phone": "(694) 7744360"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4350,
+      "students": [
+        {
+          "matrikelnummer": 4350,
+          "vorname": "Annotés",
+          "nachname": "Loftin",
+          "adresse": "32 Lien Plaza",
+          "course": "Wirtschaftsinformatik",
+          "semester": 11,
+          "email": "wloftin2m@histats.com",
+          "phone": "(501) 7671827"
+        },
+        {
+          "matrikelnummer": 4350,
+          "vorname": "Joséphine",
+          "nachname": "Burlingham",
+          "adresse": "1534 Corry Avenue",
+          "course": "Informatik",
+          "semester": 6,
+          "email": "eburlingham9s@wikimedia.org",
+          "phone": "(572) 4937023"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4661,
+      "students": [
+        {
+          "matrikelnummer": 4661,
+          "vorname": "Lucrèce",
+          "nachname": "Nolli",
+          "adresse": "1196 Grover Circle",
+          "course": "Medientechnik",
+          "semester": 6,
+          "email": "dnolli1l@biblegateway.com",
+          "phone": "(991) 7252387"
+        },
+        {
+          "matrikelnummer": 4661,
+          "vorname": "Léane",
+          "nachname": "Brind",
+          "adresse": "6009 Darwin Center",
+          "course": "Medieninformatik",
+          "semester": 2,
+          "email": "fbrind9v@unblog.fr",
+          "phone": "(200) 1000492"
+        },
+        {
+          "matrikelnummer": 4661,
+          "vorname": "Laïla",
+          "nachname": "Slafford",
+          "adresse": "57863 Kenwood Trail",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "gslaffordbj@a8.net",
+          "phone": "(710) 4517206"
+        },
+        {
+          "matrikelnummer": 4661,
+          "vorname": "Måns",
+          "nachname": "Riseam",
+          "adresse": "5 Hallows Trail",
+          "course": "Wirtschaftsinformatik",
+          "semester": 8,
+          "email": "mriseambl@livejournal.com",
+          "phone": "(291) 2057317"
+        },
+        {
+          "matrikelnummer": 4661,
+          "vorname": "Dù",
+          "nachname": "Abbati",
+          "adresse": "24070 High Crossing Plaza",
+          "course": "Medientechnik",
+          "semester": 3,
+          "email": "labbatibu@mysql.com",
+          "phone": "(492) 1346304"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4724,
+      "students": [
+        {
+          "matrikelnummer": 4724,
+          "vorname": "Fèi",
+          "nachname": "Jollye",
+          "adresse": "0 Thierer Pass",
+          "course": "Wirtschaftsinformatik",
+          "semester": 10,
+          "email": "cjollye40@arstechnica.com",
+          "phone": "(632) 6952033"
+        },
+        {
+          "matrikelnummer": 4724,
+          "vorname": "Maïlis",
+          "nachname": "Chifney",
+          "adresse": "849 Dahle Street",
+          "course": "Wirtschaftsinformatik",
+          "semester": 9,
+          "email": "gchifney9w@amazon.de",
+          "phone": "(620) 3519618"
+        },
+        {
+          "matrikelnummer": 4724,
+          "vorname": "Annotés",
+          "nachname": "Pentony",
+          "adresse": "8 Mayer Pass",
+          "course": "Medientechnik",
+          "semester": 11,
+          "email": "cpentonybi@zimbio.com",
+          "phone": "(444) 6757545"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4390,
+      "students": [
+        {
+          "matrikelnummer": 4390,
+          "vorname": "Personnalisée",
+          "nachname": "Langhor",
+          "adresse": "208 Vera Alley",
+          "course": "Medieninformatik",
+          "semester": 1,
+          "email": "glanghor9i@unicef.org",
+          "phone": "(698) 6289143"
+        },
+        {
+          "matrikelnummer": 4390,
+          "vorname": "Nélie",
+          "nachname": "Isack",
+          "adresse": "9 Bultman Lane",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "sisacka7@redcross.org",
+          "phone": "(986) 8456644"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4513,
+      "students": [
+        {
+          "matrikelnummer": 4513,
+          "vorname": "Garçon",
+          "nachname": "Cronshaw",
+          "adresse": "18172 Spohn Crossing",
+          "course": "Wirtschaftsinformatik",
+          "semester": 9,
+          "email": "ncronshaw47@apple.com",
+          "phone": "(187) 6661570"
+        },
+        {
+          "matrikelnummer": 4513,
+          "vorname": "Mà",
+          "nachname": "Rushsorth",
+          "adresse": "641 Menomonie Avenue",
+          "course": "Wirtschaftsinformatik",
+          "semester": 7,
+          "email": "nrushsortha8@nationalgeographic.com",
+          "phone": "(411) 3936681"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4737,
+      "students": [
+        {
+          "matrikelnummer": 4737,
+          "vorname": "Réservés",
+          "nachname": "Sheraton",
+          "adresse": "72194 Texas Lane",
+          "course": "Wirtschaftsinformatik",
+          "semester": 7,
+          "email": "dsheraton44@si.edu",
+          "phone": "(214) 9651824"
+        },
+        {
+          "matrikelnummer": 4737,
+          "vorname": "Magdalène",
+          "nachname": "Kobus",
+          "adresse": "7619 Russell Crossing",
+          "course": "Wirtschaftsinformatik",
+          "semester": 11,
+          "email": "ckobusa9@ucoz.ru",
+          "phone": "(536) 4324364"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4720,
+      "students": [
+        {
+          "matrikelnummer": 4720,
+          "vorname": "Amélie",
+          "nachname": "Ferrario",
+          "adresse": "72 Ilene Junction",
+          "course": "Medientechnik",
+          "semester": 11,
+          "email": "cferrario4o@is.gd",
+          "phone": "(907) 7196756"
+        },
+        {
+          "matrikelnummer": 4720,
+          "vorname": "Intéressant",
+          "nachname": "Puttick",
+          "adresse": "7825 Bluestem Hill",
+          "course": "Informatik",
+          "semester": 3,
+          "email": "cputtickab@irs.gov",
+          "phone": "(737) 9902101"
+        },
+        {
+          "matrikelnummer": 4720,
+          "vorname": "Maï",
+          "nachname": "Landre",
+          "adresse": "3 Stuart Lane",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "rlandrec5@tripadvisor.com",
+          "phone": "(793) 2478829"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4440,
+      "students": [
+        {
+          "matrikelnummer": 4440,
+          "vorname": "Annotés",
+          "nachname": "Feldmann",
+          "adresse": "4157 Alpine Terrace",
+          "course": "Medientechnik",
+          "semester": 11,
+          "email": "dfeldmann5a@ocn.ne.jp",
+          "phone": "(102) 2298484"
+        },
+        {
+          "matrikelnummer": 4440,
+          "vorname": "Célia",
+          "nachname": "Jovasevic",
+          "adresse": "43666 Di Loreto Trail",
+          "course": "Medieninformatik",
+          "semester": 5,
+          "email": "rjovasevicac@google.fr",
+          "phone": "(513) 4526925"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4447,
+      "students": [
+        {
+          "matrikelnummer": 4447,
+          "vorname": "Maëlyss",
+          "nachname": "Kort",
+          "adresse": "1954 Stephen Crossing",
+          "course": "Medieninformatik",
+          "semester": 11,
+          "email": "wkort6x@latimes.com",
+          "phone": "(443) 7283532"
+        },
+        {
+          "matrikelnummer": 4447,
+          "vorname": "Mahélie",
+          "nachname": "Calltone",
+          "adresse": "1 Northfield Avenue",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "ncalltoneaf@wordpress.com",
+          "phone": "(376) 3727470"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4379,
+      "students": [
+        {
+          "matrikelnummer": 4379,
+          "vorname": "Angélique",
+          "nachname": "Bosenworth",
+          "adresse": "67 Clarendon Road",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "cbosenworth74@booking.com",
+          "phone": "(308) 1360190"
+        },
+        {
+          "matrikelnummer": 4379,
+          "vorname": "Océanne",
+          "nachname": "Rothschild",
+          "adresse": "1307 Prentice Crossing",
+          "course": "Medientechnik",
+          "semester": 2,
+          "email": "brothschildap@yellowbook.com",
+          "phone": "(292) 2861952"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4309,
+      "students": [
+        {
+          "matrikelnummer": 4309,
+          "vorname": "Fèi",
+          "nachname": "Makeswell",
+          "adresse": "9 Fairfield Alley",
+          "course": "Wirtschaftsinformatik",
+          "semester": 1,
+          "email": "nmakeswell8j@nationalgeographic.com",
+          "phone": "(411) 7599065"
+        },
+        {
+          "matrikelnummer": 4309,
+          "vorname": "Judicaël",
+          "nachname": "Tettersell",
+          "adresse": "4 Sutteridge Pass",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "ttettersellaq@cornell.edu",
+          "phone": "(710) 7029266"
+        },
+        {
+          "matrikelnummer": 4309,
+          "vorname": "Yóu",
+          "nachname": "Friatt",
+          "adresse": "9 Thompson Parkway",
+          "course": "Medieninformatik",
+          "semester": 11,
+          "email": "gfriattba@goo.gl",
+          "phone": "(323) 9365336"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4293,
+      "students": [
+        {
+          "matrikelnummer": 4293,
+          "vorname": "Réservés",
+          "nachname": "Snedker",
+          "adresse": "7559 Transport Pass",
+          "course": "Informatik",
+          "semester": 3,
+          "email": "esnedker89@drupal.org",
+          "phone": "(609) 1542814"
+        },
+        {
+          "matrikelnummer": 4293,
+          "vorname": "Léandre",
+          "nachname": "Torricella",
+          "adresse": "6874 Lillian Point",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "etorricellaar@gov.uk",
+          "phone": "(713) 7455021"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4450,
+      "students": [
+        {
+          "matrikelnummer": 4450,
+          "vorname": "Pélagie",
+          "nachname": "Twydell",
+          "adresse": "74 Lien Drive",
+          "course": "Medientechnik",
+          "semester": 3,
+          "email": "jtwydella6@yahoo.com",
+          "phone": "(416) 5964741"
+        },
+        {
+          "matrikelnummer": 4450,
+          "vorname": "Cléopatre",
+          "nachname": "Tompkin",
+          "adresse": "46940 Clarendon Court",
+          "course": "Informatik",
+          "semester": 1,
+          "email": "ztompkinau@virginia.edu",
+          "phone": "(843) 8720185"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4285,
+      "students": [
+        {
+          "matrikelnummer": 4285,
+          "vorname": "Mégane",
+          "nachname": "Snell",
+          "adresse": "4 Pierstorff Point",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "tsnell5p@hc360.com",
+          "phone": "(125) 9069511"
+        },
+        {
+          "matrikelnummer": 4285,
+          "vorname": "Kévina",
+          "nachname": "Roads",
+          "adresse": "38131 Cardinal Crossing",
+          "course": "Medieninformatik",
+          "semester": 11,
+          "email": "jroadsav@biglobe.ne.jp",
+          "phone": "(575) 4719106"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4609,
+      "students": [
+        {
+          "matrikelnummer": 4609,
+          "vorname": "Léone",
+          "nachname": "Klimushev",
+          "adresse": "458 Hayes Parkway",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "bklimusheva@a8.net",
+          "phone": "(140) 6274322"
+        },
+        {
+          "matrikelnummer": 4609,
+          "vorname": "Kù",
+          "nachname": "Brixham",
+          "adresse": "4 Dawn Junction",
+          "course": "Wirtschaftsinformatik",
+          "semester": 7,
+          "email": "kbrixhamb0@chron.com",
+          "phone": "(767) 5605390"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4655,
+      "students": [
+        {
+          "matrikelnummer": 4655,
+          "vorname": "Béatrice",
+          "nachname": "Wrates",
+          "adresse": "0 Brentwood Trail",
+          "course": "Informatik",
+          "semester": 8,
+          "email": "uwrates3p@nsw.gov.au",
+          "phone": "(972) 2665247"
+        },
+        {
+          "matrikelnummer": 4655,
+          "vorname": "Méghane",
+          "nachname": "Longhi",
+          "adresse": "15 Maple Wood Way",
+          "course": "Wirtschaftsinformatik",
+          "semester": 2,
+          "email": "glonghib4@mapquest.com",
+          "phone": "(460) 1142502"
+        },
+        {
+          "matrikelnummer": 4655,
+          "vorname": "Bérengère",
+          "nachname": "Thraves",
+          "adresse": "592 Farwell Center",
+          "course": "Wirtschaftsinformatik",
+          "semester": 4,
+          "email": "cthravesdt@ezinearticles.com",
+          "phone": "(477) 5825508"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4424,
+      "students": [
+        {
+          "matrikelnummer": 4424,
+          "vorname": "Frédérique",
+          "nachname": "Tottie",
+          "adresse": "21563 Banding Way",
+          "course": "Informatik",
+          "semester": 12,
+          "email": "jtottiej@yelp.com",
+          "phone": "(109) 9776832"
+        },
+        {
+          "matrikelnummer": 4424,
+          "vorname": "Valérie",
+          "nachname": "Bamborough",
+          "adresse": "2 Carey Place",
+          "course": "Medieninformatik",
+          "semester": 1,
+          "email": "sbamboroughb6@themeforest.net",
+          "phone": "(933) 2224069"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4298,
+      "students": [
+        {
+          "matrikelnummer": 4298,
+          "vorname": "Loïs",
+          "nachname": "Papez",
+          "adresse": "98 Ridgeview Trail",
+          "course": "Medientechnik",
+          "semester": 2,
+          "email": "mpapez6n@hostgator.com",
+          "phone": "(913) 6702479"
+        },
+        {
+          "matrikelnummer": 4298,
+          "vorname": "Lucrèce",
+          "nachname": "Luard",
+          "adresse": "5 Merry Circle",
+          "course": "Informatik",
+          "semester": 9,
+          "email": "wluardb8@microsoft.com",
+          "phone": "(505) 5925644"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4265,
+      "students": [
+        {
+          "matrikelnummer": 4265,
+          "vorname": "Lauréna",
+          "nachname": "Worral",
+          "adresse": "230 Arrowood Hill",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "cworral9z@unc.edu",
+          "phone": "(920) 7765703"
+        },
+        {
+          "matrikelnummer": 4265,
+          "vorname": "Nélie",
+          "nachname": "Harpur",
+          "adresse": "4836 Calypso Way",
+          "course": "Informatik",
+          "semester": 6,
+          "email": "nharpurbc@qq.com",
+          "phone": "(255) 8849133"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4343,
+      "students": [
+        {
+          "matrikelnummer": 4343,
+          "vorname": "Félicie",
+          "nachname": "Cammiemile",
+          "adresse": "90 Columbus Trail",
+          "course": "Informatik",
+          "semester": 1,
+          "email": "dcammiemile2t@gmpg.org",
+          "phone": "(504) 6478899"
+        },
+        {
+          "matrikelnummer": 4343,
+          "vorname": "Maïlis",
+          "nachname": "Garfath",
+          "adresse": "61253 Mariners Cove Hill",
+          "course": "Medieninformatik",
+          "semester": 6,
+          "email": "cgarfathbe@github.com",
+          "phone": "(213) 3477713"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4663,
+      "students": [
+        {
+          "matrikelnummer": 4663,
+          "vorname": "Göran",
+          "nachname": "Jeandel",
+          "adresse": "87 Golf View Center",
+          "course": "Medientechnik",
+          "semester": 4,
+          "email": "njeandel3t@tinyurl.com",
+          "phone": "(528) 7531068"
+        },
+        {
+          "matrikelnummer": 4663,
+          "vorname": "Lorène",
+          "nachname": "Sondon",
+          "adresse": "8 Carberry Trail",
+          "course": "Medieninformatik",
+          "semester": 4,
+          "email": "msondonbh@creativecommons.org",
+          "phone": "(900) 2247545"
+        },
+        {
+          "matrikelnummer": 4663,
+          "vorname": "Yáo",
+          "nachname": "Le Clercq",
+          "adresse": "51935 Crowley Terrace",
+          "course": "Informatik",
+          "semester": 8,
+          "email": "aleclercqcs@cafepress.com",
+          "phone": "(873) 5625343"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4417,
+      "students": [
+        {
+          "matrikelnummer": 4417,
+          "vorname": "Estée",
+          "nachname": "Smart",
+          "adresse": "88974 Kingsford Court",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "tsmartl@eventbrite.com",
+          "phone": "(233) 7572732"
+        },
+        {
+          "matrikelnummer": 4417,
+          "vorname": "Léana",
+          "nachname": "Hutchin",
+          "adresse": "55212 Sauthoff Junction",
+          "course": "Medieninformatik",
+          "semester": 7,
+          "email": "chutchinbk@walmart.com",
+          "phone": "(392) 4665286"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4666,
+      "students": [
+        {
+          "matrikelnummer": 4666,
+          "vorname": "Michèle",
+          "nachname": "Sweetmore",
+          "adresse": "13 Westport Avenue",
+          "course": "Medieninformatik",
+          "semester": 1,
+          "email": "psweetmore7d@yolasite.com",
+          "phone": "(239) 5216135"
+        },
+        {
+          "matrikelnummer": 4666,
+          "vorname": "Amélie",
+          "nachname": "MacRanald",
+          "adresse": "64 Reindahl Way",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "mmacranaldbn@ihg.com",
+          "phone": "(380) 7935266"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4656,
+      "students": [
+        {
+          "matrikelnummer": 4656,
+          "vorname": "Mélia",
+          "nachname": "Bott",
+          "adresse": "5221 Coleman Avenue",
+          "course": "Informatik",
+          "semester": 3,
+          "email": "hbott2p@go.com",
+          "phone": "(305) 7266784"
+        },
+        {
+          "matrikelnummer": 4656,
+          "vorname": "Marie-thérèse",
+          "nachname": "Howe",
+          "adresse": "52 Kim Court",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "chowebo@boston.com",
+          "phone": "(169) 2815614"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4510,
+      "students": [
+        {
+          "matrikelnummer": 4510,
+          "vorname": "Agnès",
+          "nachname": "Bellenger",
+          "adresse": "68 Buhler Parkway",
+          "course": "Medientechnik",
+          "semester": 9,
+          "email": "cbellenger7q@techcrunch.com",
+          "phone": "(542) 9196349"
+        },
+        {
+          "matrikelnummer": 4510,
+          "vorname": "Tú",
+          "nachname": "Evamy",
+          "adresse": "7 Oakridge Parkway",
+          "course": "Medientechnik",
+          "semester": 9,
+          "email": "revamyby@globo.com",
+          "phone": "(416) 1212534"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4414,
+      "students": [
+        {
+          "matrikelnummer": 4414,
+          "vorname": "Rachèle",
+          "nachname": "MacFaul",
+          "adresse": "6 Gina Pass",
+          "course": "Wirtschaftsinformatik",
+          "semester": 10,
+          "email": "mmacfaul7x@lycos.com",
+          "phone": "(832) 4601565"
+        },
+        {
+          "matrikelnummer": 4414,
+          "vorname": "Aurélie",
+          "nachname": "Perview",
+          "adresse": "68 Manley Trail",
+          "course": "Informatik",
+          "semester": 3,
+          "email": "tperviewc0@merriam-webster.com",
+          "phone": "(862) 1173578"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4327,
+      "students": [
+        {
+          "matrikelnummer": 4327,
+          "vorname": "Clélia",
+          "nachname": "Filimore",
+          "adresse": "80269 Texas Pass",
+          "course": "Medientechnik",
+          "semester": 10,
+          "email": "jfilimore9x@foxnews.com",
+          "phone": "(900) 2026700"
+        },
+        {
+          "matrikelnummer": 4327,
+          "vorname": "Hélène",
+          "nachname": "Shurman",
+          "adresse": "0168 Havey Court",
+          "course": "Wirtschaftsinformatik",
+          "semester": 12,
+          "email": "ashurmanc6@howstuffworks.com",
+          "phone": "(878) 6057629"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4531,
+      "students": [
+        {
+          "matrikelnummer": 4531,
+          "vorname": "Miléna",
+          "nachname": "Djurisic",
+          "adresse": "29 Lien Plaza",
+          "course": "Informatik",
+          "semester": 5,
+          "email": "cdjurisic5w@theguardian.com",
+          "phone": "(462) 9886955"
+        },
+        {
+          "matrikelnummer": 4531,
+          "vorname": "Annotée",
+          "nachname": "Kivell",
+          "adresse": "6881 Carberry Terrace",
+          "course": "Informatik",
+          "semester": 12,
+          "email": "rkivellc7@earthlink.net",
+          "phone": "(389) 8613501"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4738,
+      "students": [
+        {
+          "matrikelnummer": 4738,
+          "vorname": "Célia",
+          "nachname": "Ofener",
+          "adresse": "96047 Loeprich Park",
+          "course": "Wirtschaftsinformatik",
+          "semester": 4,
+          "email": "fofener3n@gov.uk",
+          "phone": "(239) 6097347"
+        },
+        {
+          "matrikelnummer": 4738,
+          "vorname": "Noémie",
+          "nachname": "Ramstead",
+          "adresse": "65 Northfield Road",
+          "course": "Wirtschaftsinformatik",
+          "semester": 10,
+          "email": "bramsteadcb@vk.com",
+          "phone": "(630) 7235672"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4530,
+      "students": [
+        {
+          "matrikelnummer": 4530,
+          "vorname": "Anaëlle",
+          "nachname": "Bleibaum",
+          "adresse": "59 Lighthouse Bay Road",
+          "course": "Medientechnik",
+          "semester": 8,
+          "email": "sbleibaum23@illinois.edu",
+          "phone": "(618) 4274851"
+        },
+        {
+          "matrikelnummer": 4530,
+          "vorname": "Yú",
+          "nachname": "Reubbens",
+          "adresse": "5864 Schmedeman Trail",
+          "course": "Medieninformatik",
+          "semester": 12,
+          "email": "creubbenscc@spotify.com",
+          "phone": "(869) 5598791"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4749,
+      "students": [
+        {
+          "matrikelnummer": 4749,
+          "vorname": "Maïlys",
+          "nachname": "Linskill",
+          "adresse": "6 Montana Center",
+          "course": "Medientechnik",
+          "semester": 6,
+          "email": "elinskill6b@arstechnica.com",
+          "phone": "(381) 4800502"
+        },
+        {
+          "matrikelnummer": 4749,
+          "vorname": "Célestine",
+          "nachname": "Bockett",
+          "adresse": "931 Kings Lane",
+          "course": "Medientechnik",
+          "semester": 5,
+          "email": "sbockettcd@samsung.com",
+          "phone": "(769) 8142270"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4617,
+      "students": [
+        {
+          "matrikelnummer": 4617,
+          "vorname": "Kuí",
+          "nachname": "Burdus",
+          "adresse": "7321 Golf Crossing",
+          "course": "Medientechnik",
+          "semester": 4,
+          "email": "zburdus28@wiley.com",
+          "phone": "(519) 8070169"
+        },
+        {
+          "matrikelnummer": 4617,
+          "vorname": "Aí",
+          "nachname": "Norwich",
+          "adresse": "71 Bonner Avenue",
+          "course": "Wirtschaftsinformatik",
+          "semester": 9,
+          "email": "nnorwichce@nbcnews.com",
+          "phone": "(651) 3329678"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4405,
+      "students": [
+        {
+          "matrikelnummer": 4405,
+          "vorname": "Måns",
+          "nachname": "Bellson",
+          "adresse": "4067 Lakeland Way",
+          "course": "Informatik",
+          "semester": 12,
+          "email": "abellson7p@dion.ne.jp",
+          "phone": "(284) 7676515"
+        },
+        {
+          "matrikelnummer": 4405,
+          "vorname": "Zhì",
+          "nachname": "Pedley",
+          "adresse": "0629 Katie Hill",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "cpedleycf@delicious.com",
+          "phone": "(606) 9404387"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4364,
+      "students": [
+        {
+          "matrikelnummer": 4364,
+          "vorname": "Anaël",
+          "nachname": "Housen",
+          "adresse": "77719 Center Alley",
+          "course": "Informatik",
+          "semester": 11,
+          "email": "ohousen50@histats.com",
+          "phone": "(774) 5330482"
+        },
+        {
+          "matrikelnummer": 4364,
+          "vorname": "Agnès",
+          "nachname": "Roches",
+          "adresse": "71865 Kim Place",
+          "course": "Medientechnik",
+          "semester": 10,
+          "email": "arochescg@amazon.co.jp",
+          "phone": "(287) 1041152"
+        },
+        {
+          "matrikelnummer": 4364,
+          "vorname": "Bénédicte",
+          "nachname": "Fontenot",
+          "adresse": "8 Everett Street",
+          "course": "Wirtschaftsinformatik",
+          "semester": 1,
+          "email": "kfontenotdc@tinyurl.com",
+          "phone": "(224) 6208335"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4375,
+      "students": [
+        {
+          "matrikelnummer": 4375,
+          "vorname": "Noémie",
+          "nachname": "Demead",
+          "adresse": "4925 Hovde Avenue",
+          "course": "Medientechnik",
+          "semester": 9,
+          "email": "bdemeadb5@boston.com",
+          "phone": "(818) 1182038"
+        },
+        {
+          "matrikelnummer": 4375,
+          "vorname": "Pål",
+          "nachname": "Trotter",
+          "adresse": "43 Welch Lane",
+          "course": "Informatik",
+          "semester": 7,
+          "email": "mtrotterch@addthis.com",
+          "phone": "(216) 3794012"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4631,
+      "students": [
+        {
+          "matrikelnummer": 4631,
+          "vorname": "Gaëlle",
+          "nachname": "Moulds",
+          "adresse": "95259 Schiller Junction",
+          "course": "Wirtschaftsinformatik",
+          "semester": 11,
+          "email": "hmoulds4e@ezinearticles.com",
+          "phone": "(912) 1750346"
+        },
+        {
+          "matrikelnummer": 4631,
+          "vorname": "Faîtes",
+          "nachname": "Reedyhough",
+          "adresse": "1697 Commercial Street",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "greedyhoughcr@ucoz.ru",
+          "phone": "(284) 8383176"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4623,
+      "students": [
+        {
+          "matrikelnummer": 4623,
+          "vorname": "Méng",
+          "nachname": "Munslow",
+          "adresse": "81993 Sloan Way",
+          "course": "Wirtschaftsinformatik",
+          "semester": 1,
+          "email": "tmunslow2h@goodreads.com",
+          "phone": "(868) 4205270"
+        },
+        {
+          "matrikelnummer": 4623,
+          "vorname": "Céline",
+          "nachname": "Puddifer",
+          "adresse": "66676 Nancy Road",
+          "course": "Wirtschaftsinformatik",
+          "semester": 4,
+          "email": "hpuddifercw@biglobe.ne.jp",
+          "phone": "(386) 1160975"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4287,
+      "students": [
+        {
+          "matrikelnummer": 4287,
+          "vorname": "Táng",
+          "nachname": "Brabban",
+          "adresse": "387 Morrow Terrace",
+          "course": "Informatik",
+          "semester": 9,
+          "email": "hbrabban7w@wufoo.com",
+          "phone": "(455) 9450377"
+        },
+        {
+          "matrikelnummer": 4287,
+          "vorname": "Laïla",
+          "nachname": "Sprankling",
+          "adresse": "17 Holy Cross Court",
+          "course": "Medientechnik",
+          "semester": 11,
+          "email": "dspranklingcx@prlog.org",
+          "phone": "(116) 7598676"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4572,
+      "students": [
+        {
+          "matrikelnummer": 4572,
+          "vorname": "Méline",
+          "nachname": "Shippam",
+          "adresse": "52331 Basil Park",
+          "course": "Medieninformatik",
+          "semester": 7,
+          "email": "dshippamh@geocities.com",
+          "phone": "(601) 2810034"
+        },
+        {
+          "matrikelnummer": 4572,
+          "vorname": "Aurélie",
+          "nachname": "Wychard",
+          "adresse": "71 Blue Bill Park Pass",
+          "course": "Wirtschaftsinformatik",
+          "semester": 2,
+          "email": "kwychardcz@desdev.cn",
+          "phone": "(616) 5797901"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4324,
+      "students": [
+        {
+          "matrikelnummer": 4324,
+          "vorname": "Kévina",
+          "nachname": "Dicky",
+          "adresse": "8102 Rockefeller Circle",
+          "course": "Medientechnik",
+          "semester": 8,
+          "email": "fdickyay@goo.ne.jp",
+          "phone": "(335) 7825203"
+        },
+        {
+          "matrikelnummer": 4324,
+          "vorname": "Ruì",
+          "nachname": "Messent",
+          "adresse": "30808 Birchwood Parkway",
+          "course": "Informatik",
+          "semester": 12,
+          "email": "lmessentd0@booking.com",
+          "phone": "(567) 7957198"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4504,
+      "students": [
+        {
+          "matrikelnummer": 4504,
+          "vorname": "Gösta",
+          "nachname": "Chinnock",
+          "adresse": "0130 Bultman Court",
+          "course": "Medientechnik",
+          "semester": 7,
+          "email": "ichinnocka1@diigo.com",
+          "phone": "(873) 3102724"
+        },
+        {
+          "matrikelnummer": 4504,
+          "vorname": "Märta",
+          "nachname": "Gilfoyle",
+          "adresse": "489 Mayer Way",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "sgilfoyled2@cam.ac.uk",
+          "phone": "(545) 7739147"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4722,
+      "students": [
+        {
+          "matrikelnummer": 4722,
+          "vorname": "Danièle",
+          "nachname": "Demkowicz",
+          "adresse": "2 Calypso Drive",
+          "course": "Medieninformatik",
+          "semester": 9,
+          "email": "sdemkowicz63@scientificamerican.com",
+          "phone": "(398) 3219764"
+        },
+        {
+          "matrikelnummer": 4722,
+          "vorname": "Françoise",
+          "nachname": "Di Biasio",
+          "adresse": "0088 Sommers Circle",
+          "course": "Medientechnik",
+          "semester": 5,
+          "email": "pdibiasiod3@devhub.com",
+          "phone": "(763) 9147928"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4355,
+      "students": [
+        {
+          "matrikelnummer": 4355,
+          "vorname": "Vénus",
+          "nachname": "Rex",
+          "adresse": "8117 Paget Lane",
+          "course": "Medieninformatik",
+          "semester": 4,
+          "email": "prex1s@google.co.uk",
+          "phone": "(285) 2584664"
+        },
+        {
+          "matrikelnummer": 4355,
+          "vorname": "Personnalisée",
+          "nachname": "Kingwell",
+          "adresse": "83441 Mosinee Pass",
+          "course": "Medientechnik",
+          "semester": 5,
+          "email": "akingwelld4@xrea.com",
+          "phone": "(578) 3757694"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4509,
+      "students": [
+        {
+          "matrikelnummer": 4509,
+          "vorname": "Sélène",
+          "nachname": "Grene",
+          "adresse": "0 Schurz Circle",
+          "course": "Wirtschaftsinformatik",
+          "semester": 2,
+          "email": "bgrenead@tinypic.com",
+          "phone": "(495) 7998649"
+        },
+        {
+          "matrikelnummer": 4509,
+          "vorname": "Célestine",
+          "nachname": "Pawnsford",
+          "adresse": "61757 Mendota Center",
+          "course": "Medieninformatik",
+          "semester": 4,
+          "email": "lpawnsfordd5@statcounter.com",
+          "phone": "(986) 5859324"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4496,
+      "students": [
+        {
+          "matrikelnummer": 4496,
+          "vorname": "Célestine",
+          "nachname": "Eustis",
+          "adresse": "4823 Merchant Lane",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "beustis4b@google.co.uk",
+          "phone": "(914) 3770308"
+        },
+        {
+          "matrikelnummer": 4496,
+          "vorname": "Océanne",
+          "nachname": "Thatcher",
+          "adresse": "1908 Marquette Center",
+          "course": "Informatik",
+          "semester": 10,
+          "email": "rthatcherd7@apache.org",
+          "phone": "(937) 3419957"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4516,
+      "students": [
+        {
+          "matrikelnummer": 4516,
+          "vorname": "Maïté",
+          "nachname": "Standidge",
+          "adresse": "70 Thierer Junction",
+          "course": "Wirtschaftsinformatik",
+          "semester": 6,
+          "email": "gstandidge5g@privacy.gov.au",
+          "phone": "(741) 8331777"
+        },
+        {
+          "matrikelnummer": 4516,
+          "vorname": "Maëlle",
+          "nachname": "Cozby",
+          "adresse": "68676 Bluestem Center",
+          "course": "Medieninformatik",
+          "semester": 12,
+          "email": "rcozbyda@macromedia.com",
+          "phone": "(450) 5822088"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4296,
+      "students": [
+        {
+          "matrikelnummer": 4296,
+          "vorname": "Torbjörn",
+          "nachname": "Camus",
+          "adresse": "8 Orin Street",
+          "course": "Medientechnik",
+          "semester": 2,
+          "email": "hcamusbm@vistaprint.com",
+          "phone": "(696) 1250349"
+        },
+        {
+          "matrikelnummer": 4296,
+          "vorname": "Miléna",
+          "nachname": "Yewdell",
+          "adresse": "7254 Gerald Road",
+          "course": "Medieninformatik",
+          "semester": 11,
+          "email": "jyewdelldg@cnet.com",
+          "phone": "(298) 3569406"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4387,
+      "students": [
+        {
+          "matrikelnummer": 4387,
+          "vorname": "Bécassine",
+          "nachname": "Kleuer",
+          "adresse": "49 Kennedy Circle",
+          "course": "Wirtschaftsinformatik",
+          "semester": 3,
+          "email": "mkleuer8e@google.nl",
+          "phone": "(618) 2587426"
+        },
+        {
+          "matrikelnummer": 4387,
+          "vorname": "Kallisté",
+          "nachname": "Trangmar",
+          "adresse": "63361 Westridge Plaza",
+          "course": "Informatik",
+          "semester": 5,
+          "email": "btrangmardh@vistaprint.com",
+          "phone": "(781) 1508739"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4508,
+      "students": [
+        {
+          "matrikelnummer": 4508,
+          "vorname": "Ruò",
+          "nachname": "McRill",
+          "adresse": "860 Oak Park",
+          "course": "Medientechnik",
+          "semester": 1,
+          "email": "rmcrill8u@wp.com",
+          "phone": "(915) 5086104"
+        },
+        {
+          "matrikelnummer": 4508,
+          "vorname": "Joséphine",
+          "nachname": "Loveridge",
+          "adresse": "0 8th Park",
+          "course": "Wirtschaftsinformatik",
+          "semester": 11,
+          "email": "eloveridgedi@ezinearticles.com",
+          "phone": "(791) 6133149"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4538,
+      "students": [
+        {
+          "matrikelnummer": 4538,
+          "vorname": "Kallisté",
+          "nachname": "Leggitt",
+          "adresse": "05736 3rd Point",
+          "course": "Medieninformatik",
+          "semester": 8,
+          "email": "ileggitt18@flickr.com",
+          "phone": "(860) 5118508"
+        },
+        {
+          "matrikelnummer": 4538,
+          "vorname": "Méline",
+          "nachname": "Linsley",
+          "adresse": "69 International Park",
+          "course": "Medieninformatik",
+          "semester": 3,
+          "email": "alinsleydj@dailymotion.com",
+          "phone": "(854) 7695336"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4368,
+      "students": [
+        {
+          "matrikelnummer": 4368,
+          "vorname": "Gösta",
+          "nachname": "Flement",
+          "adresse": "0 Nobel Circle",
+          "course": "Medientechnik",
+          "semester": 2,
+          "email": "rflementbg@google.es",
+          "phone": "(950) 4974079"
+        },
+        {
+          "matrikelnummer": 4368,
+          "vorname": "Maëlyss",
+          "nachname": "Dregan",
+          "adresse": "43902 Loeprich Street",
+          "course": "Informatik",
+          "semester": 5,
+          "email": "mdregandl@odnoklassniki.ru",
+          "phone": "(587) 4664728"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4258,
+      "students": [
+        {
+          "matrikelnummer": 4258,
+          "vorname": "Mén",
+          "nachname": "Ewing",
+          "adresse": "2058 Anderson Pass",
+          "course": "Medieninformatik",
+          "semester": 5,
+          "email": "pewingt@ovh.net",
+          "phone": "(333) 8942438"
+        },
+        {
+          "matrikelnummer": 4258,
+          "vorname": "Intéressant",
+          "nachname": "Arden",
+          "adresse": "23 Duke Circle",
+          "course": "Medieninformatik",
+          "semester": 2,
+          "email": "rardendm@omniture.com",
+          "phone": "(825) 9743799"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4256,
+      "students": [
+        {
+          "matrikelnummer": 4256,
+          "vorname": "Marie-ève",
+          "nachname": "Fattore",
+          "adresse": "95 Pawling Crossing",
+          "course": "Wirtschaftsinformatik",
+          "semester": 5,
+          "email": "mfattoreak@cdbaby.com",
+          "phone": "(131) 2685282"
+        },
+        {
+          "matrikelnummer": 4256,
+          "vorname": "Adélaïde",
+          "nachname": "Lillo",
+          "adresse": "42409 Rutledge Junction",
+          "course": "Informatik",
+          "semester": 6,
+          "email": "clillodo@blogger.com",
+          "phone": "(923) 4740371"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4686,
+      "students": [
+        {
+          "matrikelnummer": 4686,
+          "vorname": "Maëlys",
+          "nachname": "Emblin",
+          "adresse": "4191 Lindbergh Parkway",
+          "course": "Medieninformatik",
+          "semester": 3,
+          "email": "lemblin2w@ucoz.ru",
+          "phone": "(974) 6979805"
+        },
+        {
+          "matrikelnummer": 4686,
+          "vorname": "Gaïa",
+          "nachname": "Coom",
+          "adresse": "20 Prentice Park",
+          "course": "Medieninformatik",
+          "semester": 9,
+          "email": "lcoomdp@pen.io",
+          "phone": "(667) 3240228"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4604,
+      "students": [
+        {
+          "matrikelnummer": 4604,
+          "vorname": "Séréna",
+          "nachname": "McRobbie",
+          "adresse": "6 Holy Cross Junction",
+          "course": "Medientechnik",
+          "semester": 8,
+          "email": "amcrobbie7a@moonfruit.com",
+          "phone": "(279) 1292639"
+        },
+        {
+          "matrikelnummer": 4604,
+          "vorname": "Yú",
+          "nachname": "Haughton",
+          "adresse": "6214 Ohio Street",
+          "course": "Wirtschaftsinformatik",
+          "semester": 4,
+          "email": "rhaughtondr@chronoengine.com",
+          "phone": "(929) 1473551"
+        }
+      ]
+    },
+    {
+      "matrikelnummer": 4577,
+      "students": [
+        {
+          "matrikelnummer": 4577,
+          "vorname": "Angèle",
+          "nachname": "Westphalen",
+          "adresse": "322 Cardinal Terrace",
+          "course": "Medientechnik",
+          "semester": 12,
+          "email": "lwestphalen5r@about.me",
+          "phone": "(170) 6207333"
+        },
+        {
+          "matrikelnummer": 4577,
+          "vorname": "Françoise",
+          "nachname": "Prescot",
+          "adresse": "88415 Lukken Circle",
+          "course": "Informatik",
+          "semester": 8,
+          "email": "dprescotds@com.com",
+          "phone": "(211) 8969284"
+        }
+      ]
+    }
+  ]

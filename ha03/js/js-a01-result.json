@@ -1,0 +1,3215 @@
+[
+    {
+        "id": 3,
+        "matrikelnummer": 4545,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 5,
+        "matrikelnummer": 4484,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 10,
+        "matrikelnummer": 4487,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 13,
+        "matrikelnummer": 4471,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 15,
+        "matrikelnummer": 4491,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 17,
+        "matrikelnummer": 4401,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 18,
+        "matrikelnummer": 4419,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 19,
+        "matrikelnummer": 4297,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 20,
+        "matrikelnummer": 4683,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 22,
+        "matrikelnummer": 4572,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 26,
+        "matrikelnummer": 4402,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 27,
+        "matrikelnummer": 4258,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 28,
+        "matrikelnummer": 4424,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 30,
+        "matrikelnummer": 4669,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 33,
+        "matrikelnummer": 4329,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 34,
+        "matrikelnummer": 4511,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 37,
+        "matrikelnummer": 4693,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 39,
+        "matrikelnummer": 4675,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 40,
+        "matrikelnummer": 4578,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 43,
+        "matrikelnummer": 4534,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 44,
+        "matrikelnummer": 4677,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 45,
+        "matrikelnummer": 4401,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 48,
+        "matrikelnummer": 4312,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 50,
+        "matrikelnummer": 4573,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 52,
+        "matrikelnummer": 4433,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 56,
+        "matrikelnummer": 4709,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 57,
+        "matrikelnummer": 4492,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 58,
+        "matrikelnummer": 4370,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 59,
+        "matrikelnummer": 4416,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 60,
+        "matrikelnummer": 4671,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 61,
+        "matrikelnummer": 4606,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 62,
+        "matrikelnummer": 4673,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 70,
+        "matrikelnummer": 4646,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 74,
+        "matrikelnummer": 4445,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 75,
+        "matrikelnummer": 4617,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 80,
+        "matrikelnummer": 4451,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 81,
+        "matrikelnummer": 4734,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 85,
+        "matrikelnummer": 4431,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 86,
+        "matrikelnummer": 4560,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 88,
+        "matrikelnummer": 4711,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 89,
+        "matrikelnummer": 4593,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 91,
+        "matrikelnummer": 4545,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 92,
+        "matrikelnummer": 4453,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 96,
+        "matrikelnummer": 4438,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 99,
+        "matrikelnummer": 4408,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 100,
+        "matrikelnummer": 4251,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 103,
+        "matrikelnummer": 4404,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 104,
+        "matrikelnummer": 4702,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 105,
+        "matrikelnummer": 4325,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 106,
+        "matrikelnummer": 4276,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 109,
+        "matrikelnummer": 4526,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 112,
+        "matrikelnummer": 4442,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 113,
+        "matrikelnummer": 4329,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 114,
+        "matrikelnummer": 4366,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 115,
+        "matrikelnummer": 4306,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 118,
+        "matrikelnummer": 4507,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 120,
+        "matrikelnummer": 4722,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 121,
+        "matrikelnummer": 4560,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 123,
+        "matrikelnummer": 4385,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 124,
+        "matrikelnummer": 4430,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 126,
+        "matrikelnummer": 4457,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 128,
+        "matrikelnummer": 4400,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 129,
+        "matrikelnummer": 4552,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 130,
+        "matrikelnummer": 4689,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 131,
+        "matrikelnummer": 4489,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 132,
+        "matrikelnummer": 4454,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 135,
+        "matrikelnummer": 4534,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 136,
+        "matrikelnummer": 4353,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 137,
+        "matrikelnummer": 4647,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 140,
+        "matrikelnummer": 4390,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 141,
+        "matrikelnummer": 4621,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 142,
+        "matrikelnummer": 4264,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 145,
+        "matrikelnummer": 4280,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 151,
+        "matrikelnummer": 4290,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 152,
+        "matrikelnummer": 4526,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 153,
+        "matrikelnummer": 4717,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 154,
+        "matrikelnummer": 4576,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 155,
+        "matrikelnummer": 4323,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 157,
+        "matrikelnummer": 4640,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 159,
+        "matrikelnummer": 4370,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 161,
+        "matrikelnummer": 4459,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 162,
+        "matrikelnummer": 4545,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 164,
+        "matrikelnummer": 4544,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 165,
+        "matrikelnummer": 4553,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 176,
+        "matrikelnummer": 4623,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 177,
+        "matrikelnummer": 4371,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 178,
+        "matrikelnummer": 4319,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 180,
+        "matrikelnummer": 4616,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 181,
+        "matrikelnummer": 4550,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 182,
+        "matrikelnummer": 4397,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 184,
+        "matrikelnummer": 4293,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 186,
+        "matrikelnummer": 4384,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 187,
+        "matrikelnummer": 4393,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 189,
+        "matrikelnummer": 4348,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 190,
+        "matrikelnummer": 4334,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 193,
+        "matrikelnummer": 4447,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 194,
+        "matrikelnummer": 4742,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 197,
+        "matrikelnummer": 4463,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 199,
+        "matrikelnummer": 4575,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 201,
+        "matrikelnummer": 4359,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 203,
+        "matrikelnummer": 4274,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 204,
+        "matrikelnummer": 4623,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 206,
+        "matrikelnummer": 4627,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 207,
+        "matrikelnummer": 4600,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 208,
+        "matrikelnummer": 4565,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 210,
+        "matrikelnummer": 4596,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 212,
+        "matrikelnummer": 4684,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 216,
+        "matrikelnummer": 4335,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 220,
+        "matrikelnummer": 4727,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 221,
+        "matrikelnummer": 4624,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 223,
+        "matrikelnummer": 4734,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 226,
+        "matrikelnummer": 4584,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 227,
+        "matrikelnummer": 4287,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 228,
+        "matrikelnummer": 4580,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 230,
+        "matrikelnummer": 4336,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 232,
+        "matrikelnummer": 4544,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 233,
+        "matrikelnummer": 4302,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 235,
+        "matrikelnummer": 4686,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 236,
+        "matrikelnummer": 4511,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 242,
+        "matrikelnummer": 4582,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 243,
+        "matrikelnummer": 4595,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 244,
+        "matrikelnummer": 4603,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 246,
+        "matrikelnummer": 4699,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 247,
+        "matrikelnummer": 4621,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 249,
+        "matrikelnummer": 4429,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 250,
+        "matrikelnummer": 4659,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 251,
+        "matrikelnummer": 4589,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 252,
+        "matrikelnummer": 4331,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 253,
+        "matrikelnummer": 4479,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 255,
+        "matrikelnummer": 4537,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 256,
+        "matrikelnummer": 4639,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 257,
+        "matrikelnummer": 4637,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 260,
+        "matrikelnummer": 4295,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 262,
+        "matrikelnummer": 4341,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 265,
+        "matrikelnummer": 4352,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 268,
+        "matrikelnummer": 4517,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 270,
+        "matrikelnummer": 4702,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 271,
+        "matrikelnummer": 4306,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 273,
+        "matrikelnummer": 4446,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 279,
+        "matrikelnummer": 4542,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 280,
+        "matrikelnummer": 4562,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 283,
+        "matrikelnummer": 4714,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 284,
+        "matrikelnummer": 4305,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 285,
+        "matrikelnummer": 4482,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 298,
+        "matrikelnummer": 4259,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 300,
+        "matrikelnummer": 4548,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 305,
+        "matrikelnummer": 4721,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 307,
+        "matrikelnummer": 4275,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 308,
+        "matrikelnummer": 4552,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 309,
+        "matrikelnummer": 4282,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 311,
+        "matrikelnummer": 4402,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 312,
+        "matrikelnummer": 4426,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 314,
+        "matrikelnummer": 4284,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 318,
+        "matrikelnummer": 4564,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 319,
+        "matrikelnummer": 4567,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 320,
+        "matrikelnummer": 4607,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 326,
+        "matrikelnummer": 4600,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 329,
+        "matrikelnummer": 4580,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 330,
+        "matrikelnummer": 4603,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 332,
+        "matrikelnummer": 4601,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 337,
+        "matrikelnummer": 4361,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 341,
+        "matrikelnummer": 4366,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 342,
+        "matrikelnummer": 4496,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 344,
+        "matrikelnummer": 4731,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 346,
+        "matrikelnummer": 4377,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 348,
+        "matrikelnummer": 4271,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 351,
+        "matrikelnummer": 4637,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 353,
+        "matrikelnummer": 4291,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 355,
+        "matrikelnummer": 4258,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 358,
+        "matrikelnummer": 4690,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 359,
+        "matrikelnummer": 4670,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 360,
+        "matrikelnummer": 4390,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 362,
+        "matrikelnummer": 4687,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 365,
+        "matrikelnummer": 4731,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 366,
+        "matrikelnummer": 4574,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 367,
+        "matrikelnummer": 4539,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 368,
+        "matrikelnummer": 4641,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 369,
+        "matrikelnummer": 4330,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 372,
+        "matrikelnummer": 4362,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 373,
+        "matrikelnummer": 4553,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 379,
+        "matrikelnummer": 4684,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 381,
+        "matrikelnummer": 4424,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 384,
+        "matrikelnummer": 4683,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 386,
+        "matrikelnummer": 4323,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 388,
+        "matrikelnummer": 4724,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 389,
+        "matrikelnummer": 4260,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 395,
+        "matrikelnummer": 4741,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 399,
+        "matrikelnummer": 4670,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 402,
+        "matrikelnummer": 4665,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 404,
+        "matrikelnummer": 4625,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 406,
+        "matrikelnummer": 4503,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 407,
+        "matrikelnummer": 4651,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 408,
+        "matrikelnummer": 4662,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 409,
+        "matrikelnummer": 4633,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 412,
+        "matrikelnummer": 4738,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 413,
+        "matrikelnummer": 4607,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 414,
+        "matrikelnummer": 4639,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 415,
+        "matrikelnummer": 4694,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 416,
+        "matrikelnummer": 4671,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 420,
+        "matrikelnummer": 4412,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 424,
+        "matrikelnummer": 4583,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 425,
+        "matrikelnummer": 4632,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 429,
+        "matrikelnummer": 4718,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 430,
+        "matrikelnummer": 4676,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 431,
+        "matrikelnummer": 4678,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 432,
+        "matrikelnummer": 4266,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 435,
+        "matrikelnummer": 4549,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 436,
+        "matrikelnummer": 4466,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 438,
+        "matrikelnummer": 4266,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 439,
+        "matrikelnummer": 4298,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 441,
+        "matrikelnummer": 4353,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 442,
+        "matrikelnummer": 4506,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 443,
+        "matrikelnummer": 4706,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 447,
+        "matrikelnummer": 4524,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 448,
+        "matrikelnummer": 4323,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 452,
+        "matrikelnummer": 4380,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 455,
+        "matrikelnummer": 4300,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 456,
+        "matrikelnummer": 4658,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 460,
+        "matrikelnummer": 4327,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 463,
+        "matrikelnummer": 4562,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 466,
+        "matrikelnummer": 4318,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 467,
+        "matrikelnummer": 4589,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 468,
+        "matrikelnummer": 4626,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 469,
+        "matrikelnummer": 4287,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 471,
+        "matrikelnummer": 4431,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 473,
+        "matrikelnummer": 4443,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 480,
+        "matrikelnummer": 4386,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 481,
+        "matrikelnummer": 4749,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 484,
+        "matrikelnummer": 4523,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 485,
+        "matrikelnummer": 4508,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 486,
+        "matrikelnummer": 4265,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 488,
+        "matrikelnummer": 4373,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 489,
+        "matrikelnummer": 4580,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 490,
+        "matrikelnummer": 4494,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 492,
+        "matrikelnummer": 4302,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 494,
+        "matrikelnummer": 4260,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 495,
+        "matrikelnummer": 4320,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 497,
+        "matrikelnummer": 4430,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 498,
+        "matrikelnummer": 4523,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 501,
+        "matrikelnummer": 4388,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 502,
+        "matrikelnummer": 4582,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 503,
+        "matrikelnummer": 4544,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 505,
+        "matrikelnummer": 4691,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 506,
+        "matrikelnummer": 4546,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 507,
+        "matrikelnummer": 4491,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 509,
+        "matrikelnummer": 4466,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 510,
+        "matrikelnummer": 4269,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 513,
+        "matrikelnummer": 4684,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 514,
+        "matrikelnummer": 4430,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 516,
+        "matrikelnummer": 4441,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 517,
+        "matrikelnummer": 4377,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 521,
+        "matrikelnummer": 4618,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 523,
+        "matrikelnummer": 4288,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 524,
+        "matrikelnummer": 4568,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 525,
+        "matrikelnummer": 4511,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 527,
+        "matrikelnummer": 4534,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 528,
+        "matrikelnummer": 4680,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 529,
+        "matrikelnummer": 4444,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 531,
+        "matrikelnummer": 4524,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 532,
+        "matrikelnummer": 4362,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 533,
+        "matrikelnummer": 4746,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 534,
+        "matrikelnummer": 4488,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 535,
+        "matrikelnummer": 4684,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 537,
+        "matrikelnummer": 4592,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 538,
+        "matrikelnummer": 4722,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 539,
+        "matrikelnummer": 4637,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 542,
+        "matrikelnummer": 4668,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 546,
+        "matrikelnummer": 4622,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 548,
+        "matrikelnummer": 4250,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 551,
+        "matrikelnummer": 4538,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 552,
+        "matrikelnummer": 4595,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 553,
+        "matrikelnummer": 4274,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 554,
+        "matrikelnummer": 4609,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 557,
+        "matrikelnummer": 4395,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 560,
+        "matrikelnummer": 4599,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 561,
+        "matrikelnummer": 4666,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 562,
+        "matrikelnummer": 4294,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 566,
+        "matrikelnummer": 4718,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 571,
+        "matrikelnummer": 4385,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 575,
+        "matrikelnummer": 4606,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 576,
+        "matrikelnummer": 4307,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 578,
+        "matrikelnummer": 4479,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 580,
+        "matrikelnummer": 4349,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 582,
+        "matrikelnummer": 4418,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 583,
+        "matrikelnummer": 4403,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 584,
+        "matrikelnummer": 4604,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 587,
+        "matrikelnummer": 4350,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 588,
+        "matrikelnummer": 4284,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 589,
+        "matrikelnummer": 4626,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 590,
+        "matrikelnummer": 4387,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 591,
+        "matrikelnummer": 4564,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 592,
+        "matrikelnummer": 4738,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 593,
+        "matrikelnummer": 4568,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 594,
+        "matrikelnummer": 4695,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 595,
+        "matrikelnummer": 4543,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 598,
+        "matrikelnummer": 4675,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 600,
+        "matrikelnummer": 4483,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 601,
+        "matrikelnummer": 4540,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 602,
+        "matrikelnummer": 4606,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 603,
+        "matrikelnummer": 4704,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 605,
+        "matrikelnummer": 4701,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 607,
+        "matrikelnummer": 4482,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 608,
+        "matrikelnummer": 4449,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 609,
+        "matrikelnummer": 4290,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 610,
+        "matrikelnummer": 4409,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 612,
+        "matrikelnummer": 4448,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 614,
+        "matrikelnummer": 4415,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 616,
+        "matrikelnummer": 4725,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 617,
+        "matrikelnummer": 4531,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 620,
+        "matrikelnummer": 4451,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 628,
+        "matrikelnummer": 4636,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 631,
+        "matrikelnummer": 4304,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 640,
+        "matrikelnummer": 4298,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 641,
+        "matrikelnummer": 4704,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 642,
+        "matrikelnummer": 4604,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 648,
+        "matrikelnummer": 4342,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 649,
+        "matrikelnummer": 4361,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 652,
+        "matrikelnummer": 4356,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 655,
+        "matrikelnummer": 4582,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 658,
+        "matrikelnummer": 4721,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 659,
+        "matrikelnummer": 4669,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 662,
+        "matrikelnummer": 4663,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 670,
+        "matrikelnummer": 4432,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 672,
+        "matrikelnummer": 4644,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 673,
+        "matrikelnummer": 4305,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 676,
+        "matrikelnummer": 4572,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 678,
+        "matrikelnummer": 4689,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 680,
+        "matrikelnummer": 4727,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 682,
+        "matrikelnummer": 4468,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 683,
+        "matrikelnummer": 4290,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 684,
+        "matrikelnummer": 4549,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 685,
+        "matrikelnummer": 4616,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 692,
+        "matrikelnummer": 4746,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 696,
+        "matrikelnummer": 4498,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 700,
+        "matrikelnummer": 4503,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 702,
+        "matrikelnummer": 4557,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 705,
+        "matrikelnummer": 4527,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 706,
+        "matrikelnummer": 4542,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 707,
+        "matrikelnummer": 4405,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 708,
+        "matrikelnummer": 4333,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 709,
+        "matrikelnummer": 4347,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 713,
+        "matrikelnummer": 4307,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 715,
+        "matrikelnummer": 4327,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 716,
+        "matrikelnummer": 4507,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 719,
+        "matrikelnummer": 4540,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 721,
+        "matrikelnummer": 4410,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 722,
+        "matrikelnummer": 4318,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 726,
+        "matrikelnummer": 4720,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 728,
+        "matrikelnummer": 4628,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 737,
+        "matrikelnummer": 4329,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 738,
+        "matrikelnummer": 4603,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 741,
+        "matrikelnummer": 4278,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 746,
+        "matrikelnummer": 4597,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 747,
+        "matrikelnummer": 4458,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 748,
+        "matrikelnummer": 4712,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 752,
+        "matrikelnummer": 4529,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 753,
+        "matrikelnummer": 4585,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 757,
+        "matrikelnummer": 4303,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 760,
+        "matrikelnummer": 4701,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 761,
+        "matrikelnummer": 4456,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 765,
+        "matrikelnummer": 4690,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 767,
+        "matrikelnummer": 4344,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 770,
+        "matrikelnummer": 4368,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 774,
+        "matrikelnummer": 4419,
+        "course": "Digitale Systeme",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 779,
+        "matrikelnummer": 4271,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 783,
+        "matrikelnummer": 4258,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 785,
+        "matrikelnummer": 4344,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 789,
+        "matrikelnummer": 4279,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 792,
+        "matrikelnummer": 4353,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 793,
+        "matrikelnummer": 4699,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 794,
+        "matrikelnummer": 4345,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 795,
+        "matrikelnummer": 4608,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 798,
+        "matrikelnummer": 4544,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 800,
+        "matrikelnummer": 4280,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 2
+    },
+    {
+        "id": 812,
+        "matrikelnummer": 4501,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 815,
+        "matrikelnummer": 4514,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 816,
+        "matrikelnummer": 4371,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 818,
+        "matrikelnummer": 4452,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 822,
+        "matrikelnummer": 4653,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 824,
+        "matrikelnummer": 4357,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 827,
+        "matrikelnummer": 4520,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 831,
+        "matrikelnummer": 4551,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 833,
+        "matrikelnummer": 4272,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 837,
+        "matrikelnummer": 4595,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 840,
+        "matrikelnummer": 4466,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 844,
+        "matrikelnummer": 4561,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 847,
+        "matrikelnummer": 4415,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 849,
+        "matrikelnummer": 4727,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 850,
+        "matrikelnummer": 4519,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 852,
+        "matrikelnummer": 4349,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 854,
+        "matrikelnummer": 4429,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 857,
+        "matrikelnummer": 4510,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 858,
+        "matrikelnummer": 4586,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 859,
+        "matrikelnummer": 4731,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 860,
+        "matrikelnummer": 4256,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 861,
+        "matrikelnummer": 4673,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 862,
+        "matrikelnummer": 4659,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 867,
+        "matrikelnummer": 4462,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 869,
+        "matrikelnummer": 4451,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 874,
+        "matrikelnummer": 4487,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 876,
+        "matrikelnummer": 4528,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 880,
+        "matrikelnummer": 4639,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 882,
+        "matrikelnummer": 4642,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 883,
+        "matrikelnummer": 4450,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 884,
+        "matrikelnummer": 4547,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 886,
+        "matrikelnummer": 4636,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 889,
+        "matrikelnummer": 4286,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 892,
+        "matrikelnummer": 4555,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 896,
+        "matrikelnummer": 4450,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 897,
+        "matrikelnummer": 4638,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 899,
+        "matrikelnummer": 4648,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 900,
+        "matrikelnummer": 4446,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 901,
+        "matrikelnummer": 4250,
+        "course": "Digitale Systeme",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 902,
+        "matrikelnummer": 4651,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 3
+    },
+    {
+        "id": 907,
+        "matrikelnummer": 4325,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 908,
+        "matrikelnummer": 4714,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 909,
+        "matrikelnummer": 4257,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 911,
+        "matrikelnummer": 4725,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 915,
+        "matrikelnummer": 4727,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "4,0",
+        "versuch": 1
+    },
+    {
+        "id": 919,
+        "matrikelnummer": 4483,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 921,
+        "matrikelnummer": 4345,
+        "course": "Webtechnologien",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 923,
+        "matrikelnummer": 4540,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 925,
+        "matrikelnummer": 4381,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 927,
+        "matrikelnummer": 4681,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 928,
+        "matrikelnummer": 4348,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 930,
+        "matrikelnummer": 4526,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 932,
+        "matrikelnummer": 4336,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 933,
+        "matrikelnummer": 4403,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 935,
+        "matrikelnummer": 4364,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 937,
+        "matrikelnummer": 4588,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 938,
+        "matrikelnummer": 4442,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 939,
+        "matrikelnummer": 4381,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 940,
+        "matrikelnummer": 4449,
+        "course": "Webtechnologien",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 941,
+        "matrikelnummer": 4690,
+        "course": "Einführung in die Programmierung",
+        "grade": "4,0",
+        "versuch": 2
+    },
+    {
+        "id": 945,
+        "matrikelnummer": 4562,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 946,
+        "matrikelnummer": 4302,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 947,
+        "matrikelnummer": 4415,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,3",
+        "versuch": 1
+    },
+    {
+        "id": 948,
+        "matrikelnummer": 4437,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "3,7",
+        "versuch": 1
+    },
+    {
+        "id": 950,
+        "matrikelnummer": 4294,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 951,
+        "matrikelnummer": 4590,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 952,
+        "matrikelnummer": 4458,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 955,
+        "matrikelnummer": 4726,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 956,
+        "matrikelnummer": 4584,
+        "course": "Einführung in die Programmierung",
+        "grade": "5,0",
+        "versuch": 2
+    },
+    {
+        "id": 957,
+        "matrikelnummer": 4432,
+        "course": "Webtechnologien",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 959,
+        "matrikelnummer": 4483,
+        "course": "Einführung in die Medieninformatik",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 964,
+        "matrikelnummer": 4379,
+        "course": "Einführung in die Programmierung",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 965,
+        "matrikelnummer": 4567,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 966,
+        "matrikelnummer": 4339,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 971,
+        "matrikelnummer": 4348,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 972,
+        "matrikelnummer": 4412,
+        "course": "Digitale Systeme",
+        "grade": "5,0",
+        "versuch": 1
+    },
+    {
+        "id": 973,
+        "matrikelnummer": 4624,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "3,0",
+        "versuch": 1
+    },
+    {
+        "id": 975,
+        "matrikelnummer": 4321,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 977,
+        "matrikelnummer": 4303,
+        "course": "Digitale Systeme",
+        "grade": "3,3",
+        "versuch": 3
+    },
+    {
+        "id": 981,
+        "matrikelnummer": 4657,
+        "course": "Digitale Systeme",
+        "grade": "4,0",
+        "versuch": 3
+    },
+    {
+        "id": 987,
+        "matrikelnummer": 4560,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 2
+    },
+    {
+        "id": 991,
+        "matrikelnummer": 4614,
+        "course": "Analysis I und Lineare Algebra für ­Ingenieurwissenschaften",
+        "grade": "3,7",
+        "versuch": 3
+    },
+    {
+        "id": 994,
+        "matrikelnummer": 4618,
+        "course": "Grundlagen der Elektrotechnik für Medientechnik",
+        "grade": "5,0",
+        "versuch": 3
+    },
+    {
+        "id": 996,
+        "matrikelnummer": 4576,
+        "course": "Webtechnologien",
+        "grade": "3,3",
+        "versuch": 2
+    },
+    {
+        "id": 999,
+        "matrikelnummer": 4592,
+        "course": "Webtechnologien",
+        "grade": "5,0",
+        "versuch": 1
+    }
+]
