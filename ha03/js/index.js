@@ -9,9 +9,10 @@ function notGoodGrades(grades) {
 
 // Aufgabe 3.1.2
 function gradeOverview(students, grades) {
-
-  return students
-    // TODO: implement me
+    return students.map( (student) => ({
+        student: student,
+        grades: grades.filter( (grade) => grade.matrikelnummer === student.matrikelnummer)
+    }))
 }
 
 // Aufgabe 3.1.3
@@ -47,6 +48,32 @@ function duplicateStudents(students) {
 
 // Aufgabe 3.1.4
 function invalidGrades(grades) {
-  return grades
-    // TODO: implement me
+    // Erstelle eine Map für die Gruppierung der Noten
+    // Statt nur zu zählen, speichern wir alle Noten für jede Kombination
+    let gradeMap = grades.reduce((acc, grade) => {
+        const key = `${grade.matrikelnummer}-${grade.course}`;
+        // Initialisiere ein Array für diesen Schlüssel, falls er noch nicht existiert
+        acc[key] = acc[key] || [];
+        // Füge das komplette Notenobjekt hinzu
+        acc[key].push(grade);
+        return acc;
+    }, {});
+
+    // Finde die problematischen Fälle und gruppiere sie nach Matrikelnummer
+    let problematicCases = Object.entries(gradeMap)
+        .filter(([key, gradeArray]) => gradeArray.length > 1)  // Mehr als eine Note
+        .reduce((acc, [key, grades]) => {
+            let [matno] = key.split('-');
+            // Initialisiere das Array für diese Matrikelnummer, falls nötig
+            acc[matno] = acc[matno] || [];
+            // Füge die komplette Notengruppe hinzu
+            acc[matno].push(grades);
+            return acc;
+        }, {});
+
+    // Transformiere in das gewünschte Ausgabeformat
+    return Object.keys(problematicCases).map(matno => ({
+        matrikelnummer: parseInt(matno),
+        grades: problematicCases[matno]  // Vollständige Notenobjekte
+    }));
 }
