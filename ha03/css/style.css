@@ -2,45 +2,70 @@
 
 /* Aufgabe 3.2.1 */
 #a11 {
-
+    position: absolute;
+    top: 100px;
+    left: 100px;
 }
 
 #a12 {
+    position: absolute;
+    top: 200px;
+    left: 200px;
 
 }
 
 #a13 {
+    position: absolute;
+    top: 150px;
+    left: 200px;
 
 }
 
 
 /* Aufgabe 3.2.2 */
 #a21 {
+    position: relative;
+    top: 100px;
+    left: 100px;
 
 }
 
 #a22 {
+    position: relative;
+    top: 150px;
+    left: 200px;
 
 }
 
 #a23 {
+    position: relative;
+    top: 50px;
+    left: 200px;
 
 }
 
 
 /* Aufgabe 3.2.3 */
 .wrapper {
+    display: grid;
+    grid-template-columns: 50px 50px 50px 50px 50px 50px;
+    grid-template-rows: 50px 50px 50px 50px 50px 50px;
 
 }
 
 #a31 {
-
+    grid-column: 6/6;
+    grid-row: 2/2;
 }
 
 #a32 {
+    grid-column: 3/3;
+    grid-row: 4/4;
 
 }
 
 #a33 {
+    grid-column: 2/2;
+    grid-row: 1/1;
 
 }
