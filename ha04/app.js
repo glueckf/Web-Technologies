@@ -15,6 +15,10 @@ function toggleLoadingSpinner(show) {
 function validateQuery(query){
   // Aufgabe 4.3.1
   // TODO: implement me
+    if (query === "") {
+        // show html element with id "emptyTextAllert"
+        document.getElementById("emptyTextAllert").style.display = "block";
+    }
 }
 
 // Function to create html for each search result item
