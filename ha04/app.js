@@ -112,9 +112,18 @@ function performSearch() {
   // Aufgabe 4.3.3.3
   // TODO: Attach click event to View Details button for each result to show bookDetails div on screen.
 
-    document.getElementById("resultsList").addEventListener("click", function(event){
-
-    })
+    document.getElementById("resultsList").addEventListener("click", function(event) {
+        console.log("Raw attribute:", event.target.getAttribute('data-book-data'));
+        console.log("Via dataset:", event.target.dataset.bookData);
+        const book = JSON.parse(event.target.dataset.bookData);
+        document.getElementById("bookDetails").innerHTML = `
+        <img class="responsive" src="https://covers.openlibrary.org/b/id/${book.cover_i}-L.jpg" alt="${book.title}"/>
+        <h3>${book.title}</h3>
+        <p><strong>Author:</strong> ${book.author_name?.join(', ') || 'Unknown Author'}</p>
+        <p><strong>First Published:</strong> ${book.first_publish_year || 'N/A'}</p>
+        <p class="d-inline-block text-truncate"><strong>Subjects:</strong> ${book.subject?.join(', ') || 'N/A'}</p>
+    `;
+    });
 
 }
 
