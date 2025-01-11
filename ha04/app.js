@@ -55,13 +55,11 @@ function performSearch() {
 
   // Aufgabe 4.3.2
   // TODO: implement Fetch with given url
-    const api_url = `https://openlibrary.org/search.json?q=${query}`;
-    fetch(api_url)
-        .then(response => response.json())
-        .then(data => {
-            console.log(data);
-        })
-
+   const url = 'https://openlibrary.org/search.json?title=${encodeURIComponent(query)}&fields=title,cover_i,author_name,first_publish_year,subject,author_key';
+    fetch(url)
+        .then(response => // do something with response)
+        .catch(error => // do something with error)
+        .finally(() => // do something after fetch is complete)
   // Aufgabe 4.3.3.1
   // TODO: if no response or empty response, resultsList div must show this text "No results found"
 
