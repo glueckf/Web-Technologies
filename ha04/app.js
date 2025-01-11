@@ -74,6 +74,7 @@ function performSearch() {
             data.docs.forEach(
                 book => {
                     const card = searchResultItem(book);
+                    card.querySelector('button').dataset.bookData = JSON.stringify(book);
                     resultsList.appendChild(card);
                 }
             )
