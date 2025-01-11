@@ -68,7 +68,16 @@ function performSearch() {
                 return;
             }
 
+            // Aufgabe 4.3.3.2
+            // TODO: implement response to create card for each result using searchResultItem function and append to resultsList in document.
             // Hier kommt die Verarbeitung der gefundenen Bücher
+            data.docs.forEach(
+                book => {
+                    const card = searchResultItem(book);
+                    resultsList.appendChild(card);
+                }
+            )
+
 
         })
         .catch(error => {
@@ -87,8 +96,7 @@ function performSearch() {
 
 
 
-  // Aufgabe 4.3.3.2
-  // TODO: implement response to create card for each result using searchResultItem function and append to resultsList in document.
+
 
 
 
