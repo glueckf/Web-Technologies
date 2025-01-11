@@ -51,13 +51,18 @@ function performSearch() {
 
   // Aufgabe 4.3.2
   // TODO: implement Fetch with given url
-
+    const api_url = `https://openlibrary.org/search.json?q=${query}`;
+    fetch(api_url)
+        .then(response => response.json())
+        .then(data => {
+            console.log(data);
+        })
 
   // Aufgabe 4.3.3.1
   // TODO: if no response or empty response, resultsList div must show this text "No results found"
 
   // Aufgabe 4.3.3.2
-  // TODO: implement response to create card for each result using searchResultItem function and append to resultsList in document. 
+  // TODO: implement response to create card for each result using searchResultItem function and append to resultsList in document.
 
   // Aufgabe 4.3.4
   // TODO: show "Error fetching data" in resultsList when fetch results in any error. 
