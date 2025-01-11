@@ -61,8 +61,10 @@ function performSearch() {
         .then(data => {
             const resultsList = document.getElementById("resultsList");
 
+            // Aufgabe 4.3.3.1
+            // TODO: if no response or empty response, resultsList div must show this text "No results found"
             if (data.numFound === 0) {
-                resultsList.innerHTML = "No results found";
+                resultsList.innerHTML = '<div class="col-12"><p class="text-center">No results found</p></div>';
                 return;
             }
 
@@ -70,14 +72,17 @@ function performSearch() {
 
         })
         .catch(error => {
-            document.getElementById("resultsList").innerHTML = "Error fetching data";
-            console.error('Fetch error:', error);
+            document.getElementById("resultsList").innerHTML = `
+                <div class="col-12">
+                    <p class="text-center text-danger">Error fetching data</p>
+                </div>
+            `;
+            console.error('Fetch error:', error); // Only for debugging
         })
         .finally(() => {
             toggleLoadingSpinner(false);  // Spinner ausblenden
         });
-  // Aufgabe 4.3.3.1
-  // TODO: if no response or empty response, resultsList div must show this text "No results found"
+
 
 
   // Aufgabe 4.3.3.2
