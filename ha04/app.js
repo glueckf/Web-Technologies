@@ -72,6 +72,8 @@ function performSearch() {
 
         })
         .catch(error => {
+            // Aufgabe 4.3.4
+            // TODO: show "Error fetching data" in resultsList when fetch results in any error.
             document.getElementById("resultsList").innerHTML = `
                 <div class="col-12">
                     <p class="text-center text-danger">Error fetching data</p>
@@ -88,8 +90,7 @@ function performSearch() {
   // Aufgabe 4.3.3.2
   // TODO: implement response to create card for each result using searchResultItem function and append to resultsList in document.
 
-  // Aufgabe 4.3.4
-  // TODO: show "Error fetching data" in resultsList when fetch results in any error. 
+
 
   // Aufgabe 4.3.5
   // TODO: spinner is hidden in any case when fetch is complete.
