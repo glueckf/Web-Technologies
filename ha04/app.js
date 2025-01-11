@@ -77,9 +77,7 @@ function performSearch() {
 // Aufgabe 4.2.1
 // TODO: add click event on search button and performSearch function is called
 document.getElementById("searchButton").addEventListener(
-    "click",function(){
-        performSearch();
-    }
+    "click",performSearch
 )
 
 // Aufgabe 4.2.2
