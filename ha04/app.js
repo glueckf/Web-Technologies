@@ -12,13 +12,13 @@ function toggleLoadingSpinner(show) {
 }
 
 // Function to validate the query
-function validateQuery(query){
-  // Aufgabe 4.3.1
-  // TODO: implement me
-    if (query === "") {
-        // show html element with id "emptyTextAllert"
-        document.getElementById("emptyTextAllert").style.display = "block";
+function validateQuery(query) {
+    if (query.trim() === "") {  // trim() entfernt Leerzeichen
+        document.getElementById("emptyTextAlert").style.display = "block";
+        return false;  // return false bei ungültiger Query
     }
+    document.getElementById("emptyTextAlert").style.display = "none"; // Alert ausblenden wenn Query valid
+    return true;  // return true bei gültiger Query
 }
 
 // Function to create html for each search result item
@@ -55,13 +55,30 @@ function performSearch() {
 
   // Aufgabe 4.3.2
   // TODO: implement Fetch with given url
-   const url = 'https://openlibrary.org/search.json?title=${encodeURIComponent(query)}&fields=title,cover_i,author_name,first_publish_year,subject,author_key';
+    const url  = `https://openlibrary.org/search.json?title=${encodeURIComponent(query)}&fields=title,cover_i,author_name,first_publish_year,subject,author_key`;
     fetch(url)
-        .then(response => // do something with response)
-        .catch(error => // do something with error)
-        .finally(() => // do something after fetch is complete)
+        .then(response => response.json())
+        .then(data => {
+            const resultsList = document.getElementById("resultsList");
+
+            if (data.numFound === 0) {
+                resultsList.innerHTML = "No results found";
+                return;
+            }
+
+            // Hier kommt die Verarbeitung der gefundenen Bücher
+
+        })
+        .catch(error => {
+            document.getElementById("resultsList").innerHTML = "Error fetching data";
+            console.error('Fetch error:', error);
+        })
+        .finally(() => {
+            toggleLoadingSpinner(false);  // Spinner ausblenden
+        });
   // Aufgabe 4.3.3.1
   // TODO: if no response or empty response, resultsList div must show this text "No results found"
+
 
   // Aufgabe 4.3.3.2
   // TODO: implement response to create card for each result using searchResultItem function and append to resultsList in document.
