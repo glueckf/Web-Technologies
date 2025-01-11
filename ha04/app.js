@@ -84,4 +84,9 @@ document.getElementById("searchButton").addEventListener(
 
 // Aufgabe 4.2.2
 // TODO: allow enter button to start search and performSearch function is called
-
+document.getElementById("searchInput").addEventListener(
+    "keypress", function(event){
+        if(event.key === "Enter"){
+            performSearch();
+        }
+    })
