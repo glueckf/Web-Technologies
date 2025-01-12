@@ -74,13 +74,23 @@ function performSearch() {
             // Aufgabe 4.3.3.2
             // TODO: implement response to create card for each result using searchResultItem function and append to resultsList in document.
             // Hier kommt die Verarbeitung der gefundenen Bücher
-            data.docs.forEach(
-                book => {
-                    const card = searchResultItem(book);
-                    card.querySelector('button').dataset.bookData = JSON.stringify(book);
-                    resultsList.appendChild(card);
-                }
-            )
+            data.docs.forEach(book => {
+                const card = searchResultItem(book);
+                const viewDetailsButton = card.querySelector('button');
+
+                // Aufgabe 4.3.3.3
+                // TODO: Attach click event to View Details button for each result to show bookDetails div on screen.
+                viewDetailsButton.addEventListener('click', () => {
+                    document.getElementById("bookDetails").innerHTML = `
+                        <img class="responsive" src="https://covers.openlibrary.org/b/id/${book.cover_i}-L.jpg" alt="${book.title}"/>
+                        <h3>${book.title}</h3>
+                        <p><strong>Author:</strong> ${book.author_name?.join(', ') || 'Unknown Author'}</p>
+                        <p><strong>First Published:</strong> ${book.first_publish_year || 'N/A'}</p>
+                        <p class="d-inline-block text-truncate"><strong>Subjects:</strong> ${book.subject?.join(', ') || 'N/A'}</p>
+                    `;
+                });
+                resultsList.appendChild(card);
+            });
             console.log('Data:', data); // Only for debugging
 
 
@@ -101,22 +111,6 @@ function performSearch() {
             // TODO: spinner is hidden in any case when fetch is complete.
             toggleLoadingSpinner(false);  // Spinner ausblenden
         });
-
-  // Aufgabe 4.3.3.3
-  // TODO: Attach click event to View Details button for each result to show bookDetails div on screen.
-
-    document.getElementById("resultsList").addEventListener("click", function(event) {
-        console.log("Raw attribute:", event.target.getAttribute('data-book-data'));
-        console.log("Via dataset:", event.target.dataset.bookData);
-        const book = JSON.parse(event.target.dataset.bookData);
-        document.getElementById("bookDetails").innerHTML = `
-        <img class="responsive" src="https://covers.openlibrary.org/b/id/${book.cover_i}-L.jpg" alt="${book.title}"/>
-        <h3>${book.title}</h3>
-        <p><strong>Author:</strong> ${book.author_name?.join(', ') || 'Unknown Author'}</p>
-        <p><strong>First Published:</strong> ${book.first_publish_year || 'N/A'}</p>
-        <p class="d-inline-block text-truncate"><strong>Subjects:</strong> ${book.subject?.join(', ') || 'N/A'}</p>
-    `;
-    });
 
 }
 
