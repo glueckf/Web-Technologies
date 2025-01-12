@@ -54,6 +54,8 @@ function performSearch() {
   // Show the spinner when the search starts
   toggleLoadingSpinner(true);
 
+  document.getElementById("resultsList").innerHTML = '';  // clear previous search results
+    document.getElementById("bookDetails").innerHTML = '';  // clear previous book details
 
   // Aufgabe 4.3.2
   // TODO: implement Fetch with given url
