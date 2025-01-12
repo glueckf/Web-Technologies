@@ -102,14 +102,6 @@ function performSearch() {
             toggleLoadingSpinner(false);  // Spinner ausblenden
         });
 
-
-
-
-
-
-
-
-
   // Aufgabe 4.3.3.3
   // TODO: Attach click event to View Details button for each result to show bookDetails div on screen.
 
