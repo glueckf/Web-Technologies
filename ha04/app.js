@@ -83,7 +83,12 @@ function performSearch() {
                 // Aufgabe 4.3.3.3
                 // TODO: Attach click event to View Details button for each result to show bookDetails div on screen.
                 viewDetailsButton.addEventListener('click', () => {
-                    document.getElementById("bookDetails").innerHTML = `
+                    const bookDetailsDiv = document.getElementById("bookDetails");
+
+                    // Restore card border for book details display (previously hidden with border-0)
+                    bookDetailsDiv.className = "card p-3 border";
+
+                    bookDetailsDiv.innerHTML = `
                         <img class="responsive" src="https://covers.openlibrary.org/b/id/${book.cover_i}-L.jpg" alt="${book.title}"/>
                         <h3>${book.title}</h3>
                         <p><strong>Author:</strong> ${book.author_name?.join(', ') || 'Unknown Author'}</p>
