@@ -97,6 +97,8 @@ function performSearch() {
             console.error('Fetch error:', error); // Only for debugging
         })
         .finally(() => {
+            // Aufgabe 4.3.5
+            // TODO: spinner is hidden in any case when fetch is complete.
             toggleLoadingSpinner(false);  // Spinner ausblenden
         });
 
@@ -106,8 +108,7 @@ function performSearch() {
 
 
 
-  // Aufgabe 4.3.5
-  // TODO: spinner is hidden in any case when fetch is complete.
+
 
   // Aufgabe 4.3.3.3
   // TODO: Attach click event to View Details button for each result to show bookDetails div on screen.
