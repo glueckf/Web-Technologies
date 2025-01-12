@@ -1,8 +1,8 @@
-# Webtechnologien 
+# Web Technologies
 A comprehensive project collection focusing on web development fundamentals, client-side programming, and modern web technologies. 
 
 ## Project Goals 
-This project was developed as part of the "Webtechnologien" module at TU Berlin to learn fundamental web technologies and their practical applications in modern web development. 
+This project was developed as part of the "Webtechnologien" module at TU Berlin to teach fundamental web technologies and their practical applications in modern web development. 
 Key focus areas: 
 - Understanding and implementing HTML, CSS and JavaScript
 - DOM manipulation and dynamic web content
