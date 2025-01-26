@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="update: Change folder structure for future tasks">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="style: remove empty style blcok in Header.vue">
+      <change beforePath="$PROJECT_DIR$/kanban/src/components/Board.vue" beforeDir="false" afterPath="$PROJECT_DIR$/kanban/src/components/Board.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881729671</updated>
-      <workItem from="1737881732894" duration="10526000" />
+      <workItem from="1737881732894" duration="10830000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit for HA05">
       <option name="closed" value="true" />
@@ -219,7 +219,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737896028725</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="style: remoce unnecessary div wrapper and empty style block">
+      <option name="closed" value="true" />
+      <created>1737897344561</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1737897344561</updated>
+    </task>
+    <task id="LOCAL-00023" summary="style: remove empty style blcok in Header.vue">
+      <option name="closed" value="true" />
+      <created>1737897410768</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1737897410768</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -258,6 +274,8 @@
     <MESSAGE value="feat: Add expanded class to card-body &#10;&#10;- Ensuring that text is correctly displayed between collapsed and expanded" />
     <MESSAGE value="fix: fix misspelling in getBadgeColor&#10;&#10;- change 'Urgend' to 'Urgent'" />
     <MESSAGE value="update: Change folder structure for future tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: Change folder structure for future tasks" />
+    <MESSAGE value="style: remoce unnecessary div wrapper and empty style block" />
+    <MESSAGE value="style: remove empty style blcok in Header.vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="style: remove empty style blcok in Header.vue" />
   </component>
 </project>
