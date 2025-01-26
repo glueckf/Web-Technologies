@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="feat: create Header component with logo and title">
-      <change beforePath="$PROJECT_DIR$/ha05/src/components/Board.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/Board.vue" afterDir="false" />
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="feat: integrate TaskCard component">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ha05/src/components/Column.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/Column.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881729671</updated>
-      <workItem from="1737881732894" duration="1548000" />
+      <workItem from="1737881732894" duration="2980000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit for HA05">
       <option name="closed" value="true" />
@@ -90,7 +92,47 @@
       <option name="project" value="LOCAL" />
       <updated>1737882897920</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="feat: create basic Board component structure&#10;&#10;- Add component setup with columns prop&#10;- Create basic grid layout&#10;- Implement column iteration">
+      <option name="closed" value="true" />
+      <created>1737883378803</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1737883378803</updated>
+    </task>
+    <task id="LOCAL-00007" summary="feat: add responsive grid layout&#10;&#10;- Implement responsive column breakpoints&#10;- Add spacing between columns&#10;- Update Bootstrap classes for different screen sizes">
+      <option name="closed" value="true" />
+      <created>1737883416144</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1737883416144</updated>
+    </task>
+    <task id="LOCAL-00008" summary="feat: add basic Column component with props">
+      <option name="closed" value="true" />
+      <created>1737883667428</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1737883667428</updated>
+    </task>
+    <task id="LOCAL-00009" summary="feat: add header styling for Column">
+      <option name="closed" value="true" />
+      <created>1737883705206</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1737883705206</updated>
+    </task>
+    <task id="LOCAL-00010" summary="feat: integrate TaskCard component">
+      <option name="closed" value="true" />
+      <created>1737883792133</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1737883792133</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -102,6 +144,11 @@
     <MESSAGE value="feat: pass title and columns props to components" />
     <MESSAGE value="remove TODOs" />
     <MESSAGE value="feat: create Header component with logo and title" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: create Header component with logo and title" />
+    <MESSAGE value="feat: create basic Board component structure&#10;&#10;- Add component setup with columns prop&#10;- Create basic grid layout&#10;- Implement column iteration" />
+    <MESSAGE value="feat: add responsive grid layout&#10;&#10;- Implement responsive column breakpoints&#10;- Add spacing between columns&#10;- Update Bootstrap classes for different screen sizes" />
+    <MESSAGE value="feat: add basic Column component with props" />
+    <MESSAGE value="feat: add header styling for Column" />
+    <MESSAGE value="feat: integrate TaskCard component" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: integrate TaskCard component" />
   </component>
 </project>
