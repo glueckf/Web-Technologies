@@ -18,7 +18,7 @@ function getBadgeColor(tag){
     'Urgend': 'danger',
     default: 'light'
   }
-  return 'bg-${colorMap[tag] || colorMap.default}'
+  return `bg-${colorMap[tag] || colorMap.default}`
 }
 </script>
 
