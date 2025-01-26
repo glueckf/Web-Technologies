@@ -11,10 +11,10 @@ defineProps({
 
 <template>
   <div class="container-fluid">
-    <div class="row">
+    <div class="row g-4">
       <div v-for="column in columns"
            :key="column.id"
-           class="col">
+           class="col-12 col-md-6 col-lg-4">
         <Column :column="column" />
       </div>
     </div>
