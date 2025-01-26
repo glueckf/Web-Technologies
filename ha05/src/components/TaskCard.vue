@@ -8,6 +8,16 @@ const props = defineProps({
     required: true
   }
 })
+
+let collapsed = ref('collapsed')
+
+function toggleCollapsed(){
+  if(collapsed.value.length === 0){
+    collapsed.value = 'collapsed'
+  }else{
+    collapsed.value = ''
+  }
+}
 </script>
 
 <template>
@@ -15,8 +25,17 @@ const props = defineProps({
     <div class="card-header">
       <h5 class="mb-0">{{ task.title }}</h5>
     </div>
-    <div class="card-body">
+    <div class="['card-body', collapsed]" @click="toggleCollapsed()">
       {{task.text}}
     </div>
   </div>
 </template>
+
+<style scoped>
+.collapsed {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  cursor: pointer;
+}
+</style>
