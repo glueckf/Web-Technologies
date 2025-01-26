@@ -1,6 +1,8 @@
 <script setup>
 import { ref, onMounted } from 'vue';
 // TODO: imports
+import Header from './components/Header.vue'
+import Board from './components/Board.vue'
 
 /* DO NOT MODIFY SCRIPT BELOW */
 const columns = ref([]);
