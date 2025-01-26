@@ -5,18 +5,17 @@ import Tag from './Tag.vue'
 const props = defineProps({
   task: {
     type: Object,
-    required: true
+    required: true,
+    validator: (value) => {
+      return value.title && value.text && Array.isArray(value.tags)
+    }
   }
 })
 
-let collapsed = ref('collapsed')
+const isCollapsed = ref(true)
 
-function toggleCollapsed(){
-  if(collapsed.value.length === 0){
-    collapsed.value = 'collapsed'
-  }else{
-    collapsed.value = ''
-  }
+function toggleCollapsed() {
+  isCollapsed.value = !isCollapsed.value
 }
 </script>
 
@@ -25,11 +24,11 @@ function toggleCollapsed(){
     <div class="card-header">
       <h5 class="mb-0">{{ task.title }}</h5>
     </div>
-    <div class="['card-body', collapsed]" @click="toggleCollapsed()">
+    <div class="card-body" :class="{ collapsed: isCollapsed }" @click="toggleCollapsed">
       {{task.text}}
     </div>
     <div class="card-footer">
-      <Tag v-for="tag in task.tags" :tag-value="tag" />
+      <Tag v-for="tag in task.tags" :key="tag" :tag-value="tag" />
     </div>
   </div>
 </template>
@@ -40,5 +39,8 @@ function toggleCollapsed(){
   white-space: nowrap;
   text-overflow: ellipsis;
   cursor: pointer;
+}
+.card{
+  margin-bottom: 1rem;
 }
 </style>

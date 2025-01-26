@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="Reinstalled dependencies">
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="feat: Add Tag component with dynamic color mapping&#10;&#10;- Add Tag.vue component with tagValue prop&#10;- Implement color mapping based on tag types&#10;- Use Bootstrap badge styling&#10;- Add rounded-pill design and margin spacing">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ha05/src/components/Tag.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/Tag.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881729671</updated>
-      <workItem from="1737881732894" duration="6672000" />
+      <workItem from="1737881732894" duration="7350000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit for HA05">
       <option name="closed" value="true" />
@@ -172,7 +172,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737888293616</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="feat: Add Tag component with dynamic color mapping&#10;&#10;- Add Tag.vue component with tagValue prop&#10;- Implement color mapping based on tag types&#10;- Use Bootstrap badge styling&#10;- Add rounded-pill design and margin spacing">
+      <option name="closed" value="true" />
+      <created>1737891306387</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1737891306387</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -194,6 +202,7 @@
     <MESSAGE value="feat: Integrate tag component" />
     <MESSAGE value="fix: Add missing closing tag to &lt;div class=&quot;card-footer&gt;" />
     <MESSAGE value="Reinstalled dependencies" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reinstalled dependencies" />
+    <MESSAGE value="feat: Add Tag component with dynamic color mapping&#10;&#10;- Add Tag.vue component with tagValue prop&#10;- Implement color mapping based on tag types&#10;- Use Bootstrap badge styling&#10;- Add rounded-pill design and margin spacing" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add Tag component with dynamic color mapping&#10;&#10;- Add Tag.vue component with tagValue prop&#10;- Implement color mapping based on tag types&#10;- Use Bootstrap badge styling&#10;- Add rounded-pill design and margin spacing" />
   </component>
 </project>
