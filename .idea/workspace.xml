@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="feat: Integrate tag component">
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="Reinstalled dependencies">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ha05/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ha05/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ha05/src/components/Tag.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/Tag.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +50,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881729671</updated>
-      <workItem from="1737881732894" duration="4786000" />
+      <workItem from="1737881732894" duration="6672000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit for HA05">
       <option name="closed" value="true" />
@@ -158,7 +156,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737887690417</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fix: Add missing closing tag to &lt;div class=&quot;card-footer&gt;">
+      <option name="closed" value="true" />
+      <created>1737888270705</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1737888270705</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Reinstalled dependencies">
+      <option name="closed" value="true" />
+      <created>1737888293616</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1737888293616</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +192,8 @@
     <MESSAGE value="feat: add basic card structure with props" />
     <MESSAGE value="feat: implement collapsible description&#10;&#10;- Add toggle functionality for task description&#10;- Implement text truncation for task description&#10;- Add click handler for expand/collapse" />
     <MESSAGE value="feat: Integrate tag component" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Integrate tag component" />
+    <MESSAGE value="fix: Add missing closing tag to &lt;div class=&quot;card-footer&gt;" />
+    <MESSAGE value="Reinstalled dependencies" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reinstalled dependencies" />
   </component>
 </project>
