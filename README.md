@@ -40,4 +40,4 @@ The Kanban project follows professional development practices using Git branchin
 
 ## Status
 
-Currently in active development. Latest completed assignment is ha05, with ha06 in active development. The project showcases an evolution from basic web fundamentals to modern full-stack development practices.
+Currently in active development. Latest completed assignment is ha05. The project showcases an evolution from basic web fundamentals to modern full-stack development practices.
