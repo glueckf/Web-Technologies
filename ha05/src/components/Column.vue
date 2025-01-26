@@ -9,7 +9,7 @@ defineProps({
 
 <template>
   <div>
-    <h4> ({column.name}) </h4>
+    <h4 class="text-light pt-4">({column.name})</h4>
   </div>
 </template>
 
