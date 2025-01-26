@@ -28,6 +28,8 @@ function toggleCollapsed(){
     <div class="['card-body', collapsed]" @click="toggleCollapsed()">
       {{task.text}}
     </div>
+    <div class="card-footer">
+      <Tag v-for="tag in task.tags" :tag-value="tag" />
   </div>
 </template>
 
