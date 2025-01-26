@@ -43,6 +43,10 @@ onMounted(loadColumns);
 </script>
 
 <template>
+  <div>
+    <Header :title="title" />
+    <Board :columns="columns" />
+  </div>
     <!-- TODO: implement -->
 </template>
 
