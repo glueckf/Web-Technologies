@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="style: remove empty style blcok in Header.vue">
-      <change beforePath="$PROJECT_DIR$/kanban/src/components/Board.vue" beforeDir="false" afterPath="$PROJECT_DIR$/kanban/src/components/Board.vue" afterDir="false" />
-    </list>
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="style: remove unnecessary div wrappers and empty style block in Column.vue" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881729671</updated>
-      <workItem from="1737881732894" duration="10830000" />
+      <workItem from="1737881732894" duration="11051000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit for HA05">
       <option name="closed" value="true" />
@@ -235,7 +233,23 @@
       <option name="project" value="LOCAL" />
       <updated>1737897410768</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="style: remove empty style blcok in Board.vue">
+      <option name="closed" value="true" />
+      <created>1737897466924</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1737897466924</updated>
+    </task>
+    <task id="LOCAL-00025" summary="style: remove unnecessary div wrappers and empty style block in Column.vue">
+      <option name="closed" value="true" />
+      <created>1737897545620</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1737897545620</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -276,6 +290,8 @@
     <MESSAGE value="update: Change folder structure for future tasks" />
     <MESSAGE value="style: remoce unnecessary div wrapper and empty style block" />
     <MESSAGE value="style: remove empty style blcok in Header.vue" />
-    <option name="LAST_COMMIT_MESSAGE" value="style: remove empty style blcok in Header.vue" />
+    <MESSAGE value="style: remove empty style blcok in Board.vue" />
+    <MESSAGE value="style: remove unnecessary div wrappers and empty style block in Column.vue" />
+    <option name="LAST_COMMIT_MESSAGE" value="style: remove unnecessary div wrappers and empty style block in Column.vue" />
   </component>
 </project>

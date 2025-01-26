@@ -40,9 +40,6 @@ function toggleCollapsed() {
   text-overflow: ellipsis;
   cursor: pointer;
 }
-.card{
-  margin-bottom: 1rem;
-}
 .expanded {
   white-space: normal;
   cursor: pointer;
