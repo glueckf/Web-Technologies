@@ -15,7 +15,7 @@ function getBadgeColor(tag){
     'Abandoned': 'secondary',
     'Assigned': 'success',
     'Client request': 'warning',
-    'Urgend': 'danger',
+    'Urgent': 'danger',
     default: 'light'
   }
   return `bg-${colorMap[tag] || colorMap.default}`

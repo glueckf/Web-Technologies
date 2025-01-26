@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="fix: change return statement of getBadgeColor&#10;&#10;- Use backsticks instead of single quotes">
-      <change beforePath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" afterDir="false" />
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="feat: Add expanded class to card-body &#10;&#10;- Ensuring that text is correctly displayed between collapsed and expanded">
+      <change beforePath="$PROJECT_DIR$/ha05/src/components/Tag.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/Tag.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881729671</updated>
-      <workItem from="1737881732894" duration="8409000" />
+      <workItem from="1737881732894" duration="8730000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit for HA05">
       <option name="closed" value="true" />
@@ -195,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737894866726</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="feat: Add expanded class to card-body &#10;&#10;- Ensuring that text is correctly displayed between collapsed and expanded">
+      <option name="closed" value="true" />
+      <created>1737895077405</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1737895077407</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +228,7 @@
     <MESSAGE value="feat: Add Tag component with dynamic color mapping&#10;&#10;- Add Tag.vue component with tagValue prop&#10;- Implement color mapping based on tag types&#10;- Use Bootstrap badge styling&#10;- Add rounded-pill design and margin spacing" />
     <MESSAGE value="update: Change logic for TaskCard.vue&#10;&#10;- toggleColapsed uses bool instead of String &#10;- Add validator to defineProps&#10;- add .card to style" />
     <MESSAGE value="fix: change return statement of getBadgeColor&#10;&#10;- Use backsticks instead of single quotes" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix: change return statement of getBadgeColor&#10;&#10;- Use backsticks instead of single quotes" />
+    <MESSAGE value="feat: Add expanded class to card-body &#10;&#10;- Ensuring that text is correctly displayed between collapsed and expanded" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Add expanded class to card-body &#10;&#10;- Ensuring that text is correctly displayed between collapsed and expanded" />
   </component>
 </project>
