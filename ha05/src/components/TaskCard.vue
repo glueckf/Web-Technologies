@@ -24,7 +24,7 @@ function toggleCollapsed() {
     <div class="card-header">
       <h5 class="mb-0">{{ task.title }}</h5>
     </div>
-    <div class="card-body" :class="{ collapsed: isCollapsed }" @click="toggleCollapsed">
+    <div class="card-body" :class="{ collapsed: isCollapsed, expanded: !isCollapsed}" @click="toggleCollapsed">
       {{task.text}}
     </div>
     <div class="card-footer">
@@ -42,5 +42,9 @@ function toggleCollapsed() {
 }
 .card{
   margin-bottom: 1rem;
+}
+.expanded {
+  white-space: normal;
+  cursor: pointer;
 }
 </style>

@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="update: Change logic for TaskCard.vue&#10;&#10;- toggleColapsed uses bool instead of String &#10;- Add validator to defineProps&#10;- add .card to style" />
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="fix: change return statement of getBadgeColor&#10;&#10;- Use backsticks instead of single quotes">
+      <change beforePath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/TaskCard.vue" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +49,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881729671</updated>
-      <workItem from="1737881732894" duration="8076000" />
+      <workItem from="1737881732894" duration="8409000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit for HA05">
       <option name="closed" value="true" />
@@ -185,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737891991215</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="fix: change return statement of getBadgeColor&#10;&#10;- Use backsticks instead of single quotes">
+      <option name="closed" value="true" />
+      <created>1737894866726</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737894866726</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,6 +219,7 @@
     <MESSAGE value="Reinstalled dependencies" />
     <MESSAGE value="feat: Add Tag component with dynamic color mapping&#10;&#10;- Add Tag.vue component with tagValue prop&#10;- Implement color mapping based on tag types&#10;- Use Bootstrap badge styling&#10;- Add rounded-pill design and margin spacing" />
     <MESSAGE value="update: Change logic for TaskCard.vue&#10;&#10;- toggleColapsed uses bool instead of String &#10;- Add validator to defineProps&#10;- add .card to style" />
-    <option name="LAST_COMMIT_MESSAGE" value="update: Change logic for TaskCard.vue&#10;&#10;- toggleColapsed uses bool instead of String &#10;- Add validator to defineProps&#10;- add .card to style" />
+    <MESSAGE value="fix: change return statement of getBadgeColor&#10;&#10;- Use backsticks instead of single quotes" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: change return statement of getBadgeColor&#10;&#10;- Use backsticks instead of single quotes" />
   </component>
 </project>
