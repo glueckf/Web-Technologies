@@ -30,6 +30,7 @@ function toggleCollapsed(){
     </div>
     <div class="card-footer">
       <Tag v-for="tag in task.tags" :tag-value="tag" />
+    </div>
   </div>
 </template>
 
