@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="feat: Add expanded class to card-body &#10;&#10;- Ensuring that text is correctly displayed between collapsed and expanded">
-      <change beforePath="$PROJECT_DIR$/ha05/src/components/Tag.vue" beforeDir="false" afterPath="$PROJECT_DIR$/ha05/src/components/Tag.vue" afterDir="false" />
-    </list>
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="fix: fix misspelling in getBadgeColor&#10;&#10;- change 'Urgend' to 'Urgent'" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,7 +47,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1737881729671</updated>
-      <workItem from="1737881732894" duration="8730000" />
+      <workItem from="1737881732894" duration="9310000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit for HA05">
       <option name="closed" value="true" />
@@ -203,7 +201,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737895077407</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="fix: fix misspelling in getBadgeColor&#10;&#10;- change 'Urgend' to 'Urgent'">
+      <option name="closed" value="true" />
+      <created>1737895452348</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1737895452349</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -229,6 +235,7 @@
     <MESSAGE value="update: Change logic for TaskCard.vue&#10;&#10;- toggleColapsed uses bool instead of String &#10;- Add validator to defineProps&#10;- add .card to style" />
     <MESSAGE value="fix: change return statement of getBadgeColor&#10;&#10;- Use backsticks instead of single quotes" />
     <MESSAGE value="feat: Add expanded class to card-body &#10;&#10;- Ensuring that text is correctly displayed between collapsed and expanded" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: Add expanded class to card-body &#10;&#10;- Ensuring that text is correctly displayed between collapsed and expanded" />
+    <MESSAGE value="fix: fix misspelling in getBadgeColor&#10;&#10;- change 'Urgend' to 'Urgent'" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix: fix misspelling in getBadgeColor&#10;&#10;- change 'Urgend' to 'Urgent'" />
   </component>
 </project>
