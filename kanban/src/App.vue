@@ -9,6 +9,31 @@ const columns = ref([]);
 
 const title = 'My Kanban Board'
 
+// Modal state
+const isModalOpen = ref(false);
+
+// Open Modal
+const openModal = () => {
+    const modal = document.getElementById(MODAL_ID);
+    modal.style.display = 'block';
+}
+
+// Close Modal
+const closeModal = () => {
+    const modal = document.getElementById(MODAL_ID);
+    modal.style.display = 'none';
+}
+
+// Add new Task
+const addTask = (task) => {
+  // Füge den Task zur "To Do" Spalte hinzu
+  columns.value[0].tasks.push({
+    id: `t${Date.now()}`, // Generiere eine eindeutige ID
+    ...task
+  });
+  closeModal();
+};
+
 /**
  * Populates the tags field.
  */
@@ -59,7 +84,12 @@ onMounted(() => {
 </script>
 
 <template>
-    <!-- TODO: add Modal component and event handling -->
     <Header :title="title" />
     <Board :columns="columns" />
+    <Modal
+        :tags="tags"
+        :is-open="isModalOpen"
+        @close="closeModal"
+        @submit="addTask"
+    />
 </template>
