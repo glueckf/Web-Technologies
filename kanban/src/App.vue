@@ -2,6 +2,7 @@
 import { ref, onMounted } from 'vue';
 import Board from './components/Board.vue';
 import Header from '@/components/Header.vue';
+import Modal from '@/components/Modal.vue';
 
 const tags = ref([]);
 const columns = ref([]);
