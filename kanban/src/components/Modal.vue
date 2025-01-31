@@ -20,12 +20,35 @@ const MODAL_BUTTON_SUBMIT = 'modalButtonSubmit' // for the modal's submit button
 // Your implementation below
 ///////////////////////////////////////////////
 
+defineProps({
+    isModalOpen: {
+        type: Boolean,
+        required: true
+    },
+    closeModal: {
+        type: Function,
+        required: true
+    },
+    columns: {
+        type: Array,
+        required: true
+    }
+});
 
 </script>
 
 <template>
     <div :id="MODAL_ID" class="modal" tabindex="-1">
-        <!-- TODO: implement -->
+      <select id="modalSelectColumn" class="form-select" aria-label="Select column">
+        <option selected>Select column</option>
+        <option
+            v-for="column in columns"
+            :key="column.id"
+            :value="column.id"
+        >
+          {{ column.name }}
+        </option>
+      </select>
     </div>
 </template>
 

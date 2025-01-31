@@ -84,12 +84,13 @@ onMounted(() => {
 </script>
 
 <template>
-    <Header :title="title" />
+    <Header :title="title" @add-task="openModal"/>
     <Board :columns="columns" />
     <Modal
         :tags="tags"
         :is-open="isModalOpen"
+        :columns="columns"
         @close="closeModal"
-        @submit="addTask"
+        @add-task="addTask"
     />
 </template>

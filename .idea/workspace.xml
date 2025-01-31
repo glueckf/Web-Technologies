@@ -4,9 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="feat: integrate Modal and implement task creation&#10;&#10;- Add Modal component with tags prop binding&#10;- Add isModalOpen state management&#10;- Implement modal open/close functionality&#10;- Add addTask method for new task creation&#10;- Connect Header component with modal opening&#10;- Setup event handling between Modal and App&#10;- Implement task ID generation">
+    <list default="true" id="bb076cc9-de85-4d7c-b2bd-e8bfb20d73b3" name="Changes" comment="feat: Solve Task 6.2 - add modal toggle button to header&#10;&#10;- Add button with ID buttonToggleModal to navigation&#10;- Implement button styling according to design specs&#10;- Fix button text and border styling">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/kanban/src/components/Header.vue" beforeDir="false" afterPath="$PROJECT_DIR$/kanban/src/components/Header.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanban/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/kanban/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kanban/src/components/Modal.vue" beforeDir="false" afterPath="$PROJECT_DIR$/kanban/src/components/Modal.vue" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -273,7 +274,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738315877636</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="feat: Solve Task 6.2 - add modal toggle button to header&#10;&#10;- Add button with ID buttonToggleModal to navigation&#10;- Implement button styling according to design specs&#10;- Fix button text and border styling">
+      <option name="closed" value="true" />
+      <created>1738316233393</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1738316233393</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,7 +300,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="feat: pass title and columns props to components" />
     <MESSAGE value="remove TODOs" />
     <MESSAGE value="feat: create Header component with logo and title" />
     <MESSAGE value="feat: create basic Board component structure&#10;&#10;- Add component setup with columns prop&#10;- Create basic grid layout&#10;- Implement column iteration" />
@@ -316,6 +324,7 @@
     <MESSAGE value="style: remove unnecessary div wrappers and empty style block in Column.vue" />
     <MESSAGE value="feat: Import Modal.vue to App.vue" />
     <MESSAGE value="feat: integrate Modal and implement task creation&#10;&#10;- Add Modal component with tags prop binding&#10;- Add isModalOpen state management&#10;- Implement modal open/close functionality&#10;- Add addTask method for new task creation&#10;- Connect Header component with modal opening&#10;- Setup event handling between Modal and App&#10;- Implement task ID generation" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: integrate Modal and implement task creation&#10;&#10;- Add Modal component with tags prop binding&#10;- Add isModalOpen state management&#10;- Implement modal open/close functionality&#10;- Add addTask method for new task creation&#10;- Connect Header component with modal opening&#10;- Setup event handling between Modal and App&#10;- Implement task ID generation" />
+    <MESSAGE value="feat: Solve Task 6.2 - add modal toggle button to header&#10;&#10;- Add button with ID buttonToggleModal to navigation&#10;- Implement button styling according to design specs&#10;- Fix button text and border styling" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: Solve Task 6.2 - add modal toggle button to header&#10;&#10;- Add button with ID buttonToggleModal to navigation&#10;- Implement button styling according to design specs&#10;- Fix button text and border styling" />
   </component>
 </project>
