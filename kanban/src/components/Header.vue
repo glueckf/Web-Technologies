@@ -27,7 +27,12 @@ defineProps({
                 {{ title }}
             </span>
 
-            <!-- TODO: button -->
+          <button
+              id="buttonToggleModal"
+              class="btn border border-primary text-primary bg-transparent hover:bg-primary-100"
+              @click="openModal">
+            Create new task
+          </button>
         </div>
     </nav>
 </template>x
