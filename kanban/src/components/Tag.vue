@@ -1,29 +1,35 @@
 <script setup>
-defineProps({
-  tagValue: {
-    type: String,
-    required: true
-  }
-});
+    defineProps({
+        tagValue: {
+            type: String,
+            required: true
+        }
+    });
 
-function getBadgeColor(tag){
-  const colorMap = {
-    'Feature': 'primary',
-    'Bug': 'primary',
-    'In concept': 'secondary',
-    'Shelved': 'secondary',
-    'Abandoned': 'secondary',
-    'Assigned': 'success',
-    'Client request': 'warning',
-    'Urgent': 'danger',
-    default: 'light'
-  }
-  return `bg-${colorMap[tag] || colorMap.default}`
-}
+    function getBadgeColor(tag) {
+        switch (tag) {
+            case 'Feature':
+            case 'Bug':
+                return 'text-bg-info';
+            case 'In concept':
+            case 'Shelved':
+            case 'Abandoned':
+                return 'text-bg-secondary';
+            case 'Assigned':
+                return 'text-bg-success';
+            case 'Client request':
+                return 'text-bg-warning';
+            case 'Urgent':
+                return 'text-bg-danger';
+            default:
+                return 'text-bg-light';
+        }
+    }
+
 </script>
 
 <template>
-  <span class="badge rounded-pill me-2" :class="getBadgeColor(tagValue)">
-    {{ tagValue }}
-  </span>
+    <div :class="['badge me-2', getBadgeColor(tagValue)]">
+        {{ tagValue }}
+    </div>
 </template>

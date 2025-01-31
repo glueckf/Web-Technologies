@@ -1,47 +1,44 @@
 <script setup>
-import { ref } from 'vue'
-import Tag from './Tag.vue'
+	import { ref } from 'vue';
+	import Tag from './Tag.vue'
 
-const props = defineProps({
-  task: {
-    type: Object,
-    required: true,
-    validator: (value) => {
-      return value.title && value.text && Array.isArray(value.tags)
-    }
-  }
-})
+	defineProps({
+		task: {
+            type: Object,
+			required: true
+        }
+	});
 
-const isCollapsed = ref(true)
+	let collapsed = ref('collapsed')
 
-function toggleCollapsed() {
-  isCollapsed.value = !isCollapsed.value
-}
+	function toggleCollapsed() {
+		if(collapsed.value.length === 0) {
+			collapsed.value = 'collapsed'
+		} else {
+			collapsed.value = ''
+		}
+	}
 </script>
 
 <template>
-  <div class="card bg-light mb-3">
-    <div class="card-header">
-      <h5 class="mb-0">{{ task.title }}</h5>
-    </div>
-    <div class="card-body" :class="{ collapsed: isCollapsed, expanded: !isCollapsed}" @click="toggleCollapsed">
-      {{task.text}}
-    </div>
-    <div class="card-footer">
-      <Tag v-for="tag in task.tags" :key="tag" :tag-value="tag" />
-    </div>
-  </div>
+	<div class="card bg-light mt-3">
+        <h5 class="card-header collapsed">{{ task.title }}</h5>
+
+
+        <div :class="['card-body', collapsed]" @click="toggleCollapsed()">
+			{{ task.text }}
+		</div>
+		<div class="card-footer">
+			<Tag v-for="tag in task.tags" :tag-value="tag" />
+		</div>
+	</div>
 </template>
 
 <style scoped>
-.collapsed {
-  overflow: hidden;
-  white-space: nowrap;
-  text-overflow: ellipsis;
-  cursor: pointer;
-}
-.expanded {
-  white-space: normal;
-  cursor: pointer;
-}
+	.collapsed {
+		overflow: hidden;
+		white-space: nowrap;
+		text-overflow: ellipsis;
+		cursor: pointer;
+	}
 </style>

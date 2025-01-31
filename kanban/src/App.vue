@@ -1,16 +1,29 @@
 <script setup>
 import { ref, onMounted } from 'vue';
-import Header from './components/Header.vue'
-import Board from './components/Board.vue'
+import Board from './components/Board.vue';
+import Header from '@/components/Header.vue';
 
-/* DO NOT MODIFY SCRIPT BELOW */
+const tags = ref([]);
 const columns = ref([]);
-const title = "My Kanban Board"
 
-const loadColumns = () => {
+const title = 'My Kanban Board'
+
+/**
+ * Populates the tags field.
+ */
+function loadTags() {
+    tags.value = [
+        'Feature', 'In concept', 'Client request', 'Bug', 'Assigned', 'Urgent', 'Shelved'
+    ]
+}
+
+/**
+ * Populates the columns field.
+ */
+function loadColumns() {
 	columns.value = [
 		{
-			id: 1,
+			id: 0,
 			name: 'To Do',
 			tasks: [
 				{ id: 't1', title: 'UI Design for Login Page', text: 'Create a modern and user-friendly interface for the login page. Ensure the design is responsive and accessible on various devices. Include elements like input fields, buttons, and error message displays.', tags: ['Feature', 'In concept'] },
@@ -19,7 +32,7 @@ const loadColumns = () => {
 			]
 		},
 		{
-			id: 2,
+			id: 1,
 			name: 'In Progress',
 			tasks: [
 				{ id: 't4', title: 'Fix API Synchronization Bug', text: 'Identify and resolve the data synchronization issue in the API. Test the fix under various scenarios to ensure data consistency. Document the changes made and update the API documentation accordingly.', tags: ['Bug', 'Assigned', 'Urgent'] },
@@ -27,7 +40,7 @@ const loadColumns = () => {
 			]
 		},
 		{
-			id: 3,
+			id: 2,
 			name: 'Done',
 			tasks: [
 				{ id: 't6', title: 'Database Query Optimization', text: 'Analyze and optimize the performance of database queries to reduce load times. Test the changes in a staging environment to ensure they don\'t negatively impact other functionalities. Document the optimizations made for future reference.', tags: ['Bug', 'Urgent'] },
@@ -35,13 +48,17 @@ const loadColumns = () => {
 				{ id: 't8', title: 'Initial Feature Testing', text: 'Conduct initial rounds of testing for the newly developed feature module. Identify and document any bugs or issues for resolution. Gather feedback from test users to improve usability and functionality.', tags: ['Feature', 'Shelved'] }
 			]
 		}
-	];
-};
+	]
+}
 
-onMounted(loadColumns);
+onMounted(() => {
+    loadTags()
+    loadColumns()
+});
 </script>
 
 <template>
-  <Header :title="title" />
-  <Board :columns="columns" />
+    <!-- TODO: add Modal component and event handling -->
+    <Header :title="title" />
+    <Board :columns="columns" />
 </template>

@@ -1,5 +1,3 @@
-/* DO NOT MODIFY */
-
 import './assets/main.css'
 
 import { createApp } from 'vue'
